@@ -1,0 +1,4867 @@
+[
+    {
+        "Id": "8d26fdde90594080a80ea13c86b93b9b",
+        "RecognitionStatus": 0,
+        "Offset": 3000000,
+        "Duration": 310100000,
+        "Channel": 0,
+        "DisplayText": "World War One officially ended when the peace treaty was signed on the 28th of June 1919. The treaty ordered Germany to pay reparations to the countries they had fought to help those countries rebuild, and it was also ordered to hand over 25,000 square miles of land. This puts severe strains on the German economy, which was also trying to rebuild after the war and caused deep resentment among the German population. The treaty created the League of Nations made-up of 42 countries and intended to resolve international disputes diplomatically, but the US refused to join, which made it severely.",
+        "NBest": [
+            {
+                "Confidence": 0.89163965,
+                "Lexical": "world war one officially ended when the peace treaty was signed on the twenty eighth of june nineteen nineteen the treaty ordered germany to pay reparations to the countries they had fought to help those countries rebuild and it was also ordered to hand over twenty five thousand square miles of land this puts severe strains on the german economy which was also trying to rebuild after the war and caused deep resentment among the german population the treaty created the league of nations made up of forty two countries and intended to resolve international disputes diplomatically but the US refused to join which made it severely",
+                "ITN": "world war one officially ended when the peace treaty was signed on the 28th of june 1919 the treaty ordered germany to pay reparations to the countries they had fought to help those countries rebuild and it was also ordered to hand over 25,000 square miles of land this puts severe strains on the german economy which was also trying to rebuild after the war and caused deep resentment among the german population the treaty created the league of nations made up of 42 countries and intended to resolve international disputes diplomatically but the US refused to join which made it severely",
+                "MaskedITN": "world war one officially ended when the peace treaty was signed on the 28th of june 1919 the treaty ordered germany to pay reparations to the countries they had fought to help those countries rebuild and it was also ordered to hand over 25,000 square miles of land this puts severe strains on the german economy which was also trying to rebuild after the war and caused deep resentment among the german population the treaty created the league of nations made-up of 42 countries and intended to resolve international disputes diplomatically but the us refused to join which made it severely",
+                "Display": "World War One officially ended when the peace treaty was signed on the 28th of June 1919. The treaty ordered Germany to pay reparations to the countries they had fought to help those countries rebuild, and it was also ordered to hand over 25,000 square miles of land. This puts severe strains on the German economy, which was also trying to rebuild after the war and caused deep resentment among the German population. The treaty created the League of Nations made-up of 42 countries and intended to resolve international disputes diplomatically, but the US refused to join, which made it severely.",
+                "Words": [
+                    {
+                        "Word": "world",
+                        "Offset": 3000000,
+                        "Duration": 3100000
+                    },
+                    {
+                        "Word": "war",
+                        "Offset": 6200000,
+                        "Duration": 1900000
+                    },
+                    {
+                        "Word": "one",
+                        "Offset": 8200000,
+                        "Duration": 2500000
+                    },
+                    {
+                        "Word": "officially",
+                        "Offset": 10800000,
+                        "Duration": 5100000
+                    },
+                    {
+                        "Word": "ended",
+                        "Offset": 16000000,
+                        "Duration": 3100000
+                    },
+                    {
+                        "Word": "when",
+                        "Offset": 19200000,
+                        "Duration": 1700000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 21000000,
+                        "Duration": 1100000
+                    },
+                    {
+                        "Word": "peace",
+                        "Offset": 22200000,
+                        "Duration": 3100000
+                    },
+                    {
+                        "Word": "treaty",
+                        "Offset": 25400000,
+                        "Duration": 3300000
+                    },
+                    {
+                        "Word": "was",
+                        "Offset": 28800000,
+                        "Duration": 1500000
+                    },
+                    {
+                        "Word": "signed",
+                        "Offset": 30400000,
+                        "Duration": 3500000
+                    },
+                    {
+                        "Word": "on",
+                        "Offset": 34000000,
+                        "Duration": 700000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 34800000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "twenty",
+                        "Offset": 36100000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "eighth",
+                        "Offset": 38600000,
+                        "Duration": 2300000
+                    },
+                    {
+                        "Word": "of",
+                        "Offset": 41000000,
+                        "Duration": 1100000
+                    },
+                    {
+                        "Word": "june",
+                        "Offset": 42200000,
+                        "Duration": 2500000
+                    },
+                    {
+                        "Word": "nineteen",
+                        "Offset": 44800000,
+                        "Duration": 4100000
+                    },
+                    {
+                        "Word": "nineteen",
+                        "Offset": 49000000,
+                        "Duration": 6500000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 56200000,
+                        "Duration": 1300000
+                    },
+                    {
+                        "Word": "treaty",
+                        "Offset": 57600000,
+                        "Duration": 3300000
+                    },
+                    {
+                        "Word": "ordered",
+                        "Offset": 61000000,
+                        "Duration": 3000000
+                    },
+                    {
+                        "Word": "germany",
+                        "Offset": 64100000,
+                        "Duration": 3400000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 67600000,
+                        "Duration": 1300000
+                    },
+                    {
+                        "Word": "pay",
+                        "Offset": 69000000,
+                        "Duration": 1800000
+                    },
+                    {
+                        "Word": "reparations",
+                        "Offset": 70900000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 79000000,
+                        "Duration": 1000000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 80100000,
+                        "Duration": 1000000
+                    },
+                    {
+                        "Word": "countries",
+                        "Offset": 81200000,
+                        "Duration": 4500000
+                    },
+                    {
+                        "Word": "they",
+                        "Offset": 85800000,
+                        "Duration": 1500000
+                    },
+                    {
+                        "Word": "had",
+                        "Offset": 87400000,
+                        "Duration": 1700000
+                    },
+                    {
+                        "Word": "fought",
+                        "Offset": 89200000,
+                        "Duration": 3500000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 92800000,
+                        "Duration": 1100000
+                    },
+                    {
+                        "Word": "help",
+                        "Offset": 94000000,
+                        "Duration": 2100000
+                    },
+                    {
+                        "Word": "those",
+                        "Offset": 96200000,
+                        "Duration": 2300000
+                    },
+                    {
+                        "Word": "countries",
+                        "Offset": 98600000,
+                        "Duration": 4500000
+                    },
+                    {
+                        "Word": "rebuild",
+                        "Offset": 103200000,
+                        "Duration": 5300000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 109200000,
+                        "Duration": 1300000
+                    },
+                    {
+                        "Word": "it",
+                        "Offset": 110600000,
+                        "Duration": 700000
+                    },
+                    {
+                        "Word": "was",
+                        "Offset": 111400000,
+                        "Duration": 1300000
+                    },
+                    {
+                        "Word": "also",
+                        "Offset": 112800000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "ordered",
+                        "Offset": 116100000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 119400000,
+                        "Duration": 1100000
+                    },
+                    {
+                        "Word": "hand",
+                        "Offset": 120600000,
+                        "Duration": 2100000
+                    },
+                    {
+                        "Word": "over",
+                        "Offset": 122800000,
+                        "Duration": 1700000
+                    },
+                    {
+                        "Word": "twenty",
+                        "Offset": 124600000,
+                        "Duration": 3500000
+                    },
+                    {
+                        "Word": "five",
+                        "Offset": 128200000,
+                        "Duration": 2200000
+                    },
+                    {
+                        "Word": "thousand",
+                        "Offset": 130500000,
+                        "Duration": 3800000
+                    },
+                    {
+                        "Word": "square",
+                        "Offset": 134400000,
+                        "Duration": 3500000
+                    },
+                    {
+                        "Word": "miles",
+                        "Offset": 138000000,
+                        "Duration": 3500000
+                    },
+                    {
+                        "Word": "of",
+                        "Offset": 141600000,
+                        "Duration": 1100000
+                    },
+                    {
+                        "Word": "land",
+                        "Offset": 142800000,
+                        "Duration": 4100000
+                    },
+                    {
+                        "Word": "this",
+                        "Offset": 147800000,
+                        "Duration": 2100000
+                    },
+                    {
+                        "Word": "puts",
+                        "Offset": 150000000,
+                        "Duration": 2200000
+                    },
+                    {
+                        "Word": "severe",
+                        "Offset": 152300000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "strains",
+                        "Offset": 155600000,
+                        "Duration": 4500000
+                    },
+                    {
+                        "Word": "on",
+                        "Offset": 160200000,
+                        "Duration": 900000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 161200000,
+                        "Duration": 1100000
+                    },
+                    {
+                        "Word": "german",
+                        "Offset": 162400000,
+                        "Duration": 3100000
+                    },
+                    {
+                        "Word": "economy",
+                        "Offset": 165600000,
+                        "Duration": 4600000
+                    },
+                    {
+                        "Word": "which",
+                        "Offset": 170300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "was",
+                        "Offset": 172400000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "also",
+                        "Offset": 173700000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "trying",
+                        "Offset": 177000000,
+                        "Duration": 2500000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 179600000,
+                        "Duration": 1100000
+                    },
+                    {
+                        "Word": "rebuild",
+                        "Offset": 180800000,
+                        "Duration": 3500000
+                    },
+                    {
+                        "Word": "after",
+                        "Offset": 184400000,
+                        "Duration": 2700000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 187200000,
+                        "Duration": 1100000
+                    },
+                    {
+                        "Word": "war",
+                        "Offset": 188400000,
+                        "Duration": 2300000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 190800000,
+                        "Duration": 1700000
+                    },
+                    {
+                        "Word": "caused",
+                        "Offset": 192600000,
+                        "Duration": 3100000
+                    },
+                    {
+                        "Word": "deep",
+                        "Offset": 195800000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "resentment",
+                        "Offset": 197900000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "among",
+                        "Offset": 203200000,
+                        "Duration": 2500000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 205800000,
+                        "Duration": 1100000
+                    },
+                    {
+                        "Word": "german",
+                        "Offset": 207000000,
+                        "Duration": 3300000
+                    },
+                    {
+                        "Word": "population",
+                        "Offset": 210400000,
+                        "Duration": 6900000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 218200000,
+                        "Duration": 1500000
+                    },
+                    {
+                        "Word": "treaty",
+                        "Offset": 219800000,
+                        "Duration": 3700000
+                    },
+                    {
+                        "Word": "created",
+                        "Offset": 223600000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 228500000,
+                        "Duration": 1000000
+                    },
+                    {
+                        "Word": "league",
+                        "Offset": 229600000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "of",
+                        "Offset": 232100000,
+                        "Duration": 1000000
+                    },
+                    {
+                        "Word": "nations",
+                        "Offset": 233200000,
+                        "Duration": 4700000
+                    },
+                    {
+                        "Word": "made",
+                        "Offset": 238000000,
+                        "Duration": 1900000
+                    },
+                    {
+                        "Word": "up",
+                        "Offset": 240000000,
+                        "Duration": 1500000
+                    },
+                    {
+                        "Word": "of",
+                        "Offset": 241600000,
+                        "Duration": 1100000
+                    },
+                    {
+                        "Word": "forty",
+                        "Offset": 242800000,
+                        "Duration": 3300000
+                    },
+                    {
+                        "Word": "two",
+                        "Offset": 246200000,
+                        "Duration": 1900000
+                    },
+                    {
+                        "Word": "countries",
+                        "Offset": 248200000,
+                        "Duration": 5500000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 253800000,
+                        "Duration": 1300000
+                    },
+                    {
+                        "Word": "intended",
+                        "Offset": 255200000,
+                        "Duration": 5100000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 260400000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "resolve",
+                        "Offset": 261700000,
+                        "Duration": 4100000
+                    },
+                    {
+                        "Word": "international",
+                        "Offset": 265900000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "disputes",
+                        "Offset": 272000000,
+                        "Duration": 5500000
+                    },
+                    {
+                        "Word": "diplomatically",
+                        "Offset": 277600000,
+                        "Duration": 8500000
+                    },
+                    {
+                        "Word": "but",
+                        "Offset": 286800000,
+                        "Duration": 1300000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 288200000,
+                        "Duration": 1000000
+                    },
+                    {
+                        "Word": "US",
+                        "Offset": 289300000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "refused",
+                        "Offset": 293800000,
+                        "Duration": 5100000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 299000000,
+                        "Duration": 900000
+                    },
+                    {
+                        "Word": "join",
+                        "Offset": 300000000,
+                        "Duration": 3300000
+                    },
+                    {
+                        "Word": "which",
+                        "Offset": 303400000,
+                        "Duration": 2200000
+                    },
+                    {
+                        "Word": "made",
+                        "Offset": 305700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "it",
+                        "Offset": 307400000,
+                        "Duration": 900000
+                    },
+                    {
+                        "Word": "severely",
+                        "Offset": 308400000,
+                        "Duration": 4700000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.891659,
+                "Lexical": "world war one officially ended when the peace treaty was signed on the twenty eighth of june nineteen nineteen the treaty ordered germany to pay reparations to the countries they had fought to help those countries rebuild and it was also ordered to hand over twenty five thousand square miles of land this puts severe strains on the german economy which was also trying to rebuild after the war and cause deep resentment among the german population the treaty created the league of nations made up of forty two countries and intended to resolve international disputes diplomatically but the us refused to join which made it severely",
+                "ITN": "world war one officially ended when the peace treaty was signed on the twenty eighth of june nineteen nineteen the treaty ordered germany to pay reparations to the countries they had fought to help those countries rebuild and it was also ordered to hand over twenty five thousand square miles of land this puts severe strains on the german economy which was also trying to rebuild after the war and cause deep resentment among the german population the treaty created the league of nations made up of forty two countries and intended to resolve international disputes diplomatically but the us refused to join which made it severely",
+                "MaskedITN": "world war one officially ended when the peace treaty was signed on the twenty eighth of june nineteen nineteen the treaty ordered germany to pay reparations to the countries they had fought to help those countries rebuild and it was also ordered to hand over twenty five thousand square miles of land this puts severe strains on the german economy which was also trying to rebuild after the war and cause deep resentment among the german population the treaty created the league of nations made up of forty two countries and intended to resolve international disputes diplomatically but the us refused to join which made it severely",
+                "Display": "world war one officially ended when the peace treaty was signed on the twenty eighth of june nineteen nineteen the treaty ordered germany to pay reparations to the countries they had fought to help those countries rebuild and it was also ordered to hand over twenty five thousand square miles of land this puts severe strains on the german economy which was also trying to rebuild after the war and cause deep resentment among the german population the treaty created the league of nations made up of forty two countries and intended to resolve international disputes diplomatically but the US refused to join which made it severely",
+                "Words": [
+                    {
+                        "Word": "world",
+                        "Offset": 3000000,
+                        "Duration": 3100000
+                    },
+                    {
+                        "Word": "war",
+                        "Offset": 6200000,
+                        "Duration": 1900000
+                    },
+                    {
+                        "Word": "one",
+                        "Offset": 8200000,
+                        "Duration": 2500000
+                    },
+                    {
+                        "Word": "officially",
+                        "Offset": 10800000,
+                        "Duration": 5100000
+                    },
+                    {
+                        "Word": "ended",
+                        "Offset": 16000000,
+                        "Duration": 3100000
+                    },
+                    {
+                        "Word": "when",
+                        "Offset": 19200000,
+                        "Duration": 1700000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 21000000,
+                        "Duration": 1100000
+                    },
+                    {
+                        "Word": "peace",
+                        "Offset": 22200000,
+                        "Duration": 3100000
+                    },
+                    {
+                        "Word": "treaty",
+                        "Offset": 25400000,
+                        "Duration": 3300000
+                    },
+                    {
+                        "Word": "was",
+                        "Offset": 28800000,
+                        "Duration": 1500000
+                    },
+                    {
+                        "Word": "signed",
+                        "Offset": 30400000,
+                        "Duration": 3500000
+                    },
+                    {
+                        "Word": "on",
+                        "Offset": 34000000,
+                        "Duration": 700000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 34800000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "twenty",
+                        "Offset": 36100000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "eighth",
+                        "Offset": 38600000,
+                        "Duration": 2300000
+                    },
+                    {
+                        "Word": "of",
+                        "Offset": 41000000,
+                        "Duration": 1100000
+                    },
+                    {
+                        "Word": "june",
+                        "Offset": 42200000,
+                        "Duration": 2500000
+                    },
+                    {
+                        "Word": "nineteen",
+                        "Offset": 44800000,
+                        "Duration": 4100000
+                    },
+                    {
+                        "Word": "nineteen",
+                        "Offset": 49000000,
+                        "Duration": 6500000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 56200000,
+                        "Duration": 1300000
+                    },
+                    {
+                        "Word": "treaty",
+                        "Offset": 57600000,
+                        "Duration": 3300000
+                    },
+                    {
+                        "Word": "ordered",
+                        "Offset": 61000000,
+                        "Duration": 3000000
+                    },
+                    {
+                        "Word": "germany",
+                        "Offset": 64100000,
+                        "Duration": 3400000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 67600000,
+                        "Duration": 1300000
+                    },
+                    {
+                        "Word": "pay",
+                        "Offset": 69000000,
+                        "Duration": 1800000
+                    },
+                    {
+                        "Word": "reparations",
+                        "Offset": 70900000,
+                        "Duration": 7900000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 78900000,
+                        "Duration": 1100000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 80100000,
+                        "Duration": 1000000
+                    },
+                    {
+                        "Word": "countries",
+                        "Offset": 81200000,
+                        "Duration": 4500000
+                    },
+                    {
+                        "Word": "they",
+                        "Offset": 85800000,
+                        "Duration": 1500000
+                    },
+                    {
+                        "Word": "had",
+                        "Offset": 87400000,
+                        "Duration": 1700000
+                    },
+                    {
+                        "Word": "fought",
+                        "Offset": 89200000,
+                        "Duration": 3500000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 92800000,
+                        "Duration": 1100000
+                    },
+                    {
+                        "Word": "help",
+                        "Offset": 94000000,
+                        "Duration": 2100000
+                    },
+                    {
+                        "Word": "those",
+                        "Offset": 96200000,
+                        "Duration": 2300000
+                    },
+                    {
+                        "Word": "countries",
+                        "Offset": 98600000,
+                        "Duration": 4500000
+                    },
+                    {
+                        "Word": "rebuild",
+                        "Offset": 103200000,
+                        "Duration": 5300000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 109200000,
+                        "Duration": 1300000
+                    },
+                    {
+                        "Word": "it",
+                        "Offset": 110600000,
+                        "Duration": 700000
+                    },
+                    {
+                        "Word": "was",
+                        "Offset": 111400000,
+                        "Duration": 1300000
+                    },
+                    {
+                        "Word": "also",
+                        "Offset": 112800000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "ordered",
+                        "Offset": 116100000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 119400000,
+                        "Duration": 1100000
+                    },
+                    {
+                        "Word": "hand",
+                        "Offset": 120600000,
+                        "Duration": 2100000
+                    },
+                    {
+                        "Word": "over",
+                        "Offset": 122800000,
+                        "Duration": 1700000
+                    },
+                    {
+                        "Word": "twenty",
+                        "Offset": 124600000,
+                        "Duration": 3500000
+                    },
+                    {
+                        "Word": "five",
+                        "Offset": 128200000,
+                        "Duration": 2200000
+                    },
+                    {
+                        "Word": "thousand",
+                        "Offset": 130500000,
+                        "Duration": 3800000
+                    },
+                    {
+                        "Word": "square",
+                        "Offset": 134400000,
+                        "Duration": 3500000
+                    },
+                    {
+                        "Word": "miles",
+                        "Offset": 138000000,
+                        "Duration": 3500000
+                    },
+                    {
+                        "Word": "of",
+                        "Offset": 141600000,
+                        "Duration": 1100000
+                    },
+                    {
+                        "Word": "land",
+                        "Offset": 142800000,
+                        "Duration": 4100000
+                    },
+                    {
+                        "Word": "this",
+                        "Offset": 147800000,
+                        "Duration": 2100000
+                    },
+                    {
+                        "Word": "puts",
+                        "Offset": 150000000,
+                        "Duration": 2200000
+                    },
+                    {
+                        "Word": "severe",
+                        "Offset": 152300000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "strains",
+                        "Offset": 155600000,
+                        "Duration": 4500000
+                    },
+                    {
+                        "Word": "on",
+                        "Offset": 160200000,
+                        "Duration": 900000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 161200000,
+                        "Duration": 1100000
+                    },
+                    {
+                        "Word": "german",
+                        "Offset": 162400000,
+                        "Duration": 3100000
+                    },
+                    {
+                        "Word": "economy",
+                        "Offset": 165600000,
+                        "Duration": 4600000
+                    },
+                    {
+                        "Word": "which",
+                        "Offset": 170300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "was",
+                        "Offset": 172400000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "also",
+                        "Offset": 173700000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "trying",
+                        "Offset": 177000000,
+                        "Duration": 2500000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 179600000,
+                        "Duration": 1100000
+                    },
+                    {
+                        "Word": "rebuild",
+                        "Offset": 180800000,
+                        "Duration": 3500000
+                    },
+                    {
+                        "Word": "after",
+                        "Offset": 184400000,
+                        "Duration": 2700000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 187200000,
+                        "Duration": 1100000
+                    },
+                    {
+                        "Word": "war",
+                        "Offset": 188400000,
+                        "Duration": 2300000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 190800000,
+                        "Duration": 1700000
+                    },
+                    {
+                        "Word": "cause",
+                        "Offset": 192600000,
+                        "Duration": 3100000
+                    },
+                    {
+                        "Word": "deep",
+                        "Offset": 195800000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "resentment",
+                        "Offset": 197900000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "among",
+                        "Offset": 203200000,
+                        "Duration": 2500000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 205800000,
+                        "Duration": 1100000
+                    },
+                    {
+                        "Word": "german",
+                        "Offset": 207000000,
+                        "Duration": 3300000
+                    },
+                    {
+                        "Word": "population",
+                        "Offset": 210400000,
+                        "Duration": 6900000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 218200000,
+                        "Duration": 1500000
+                    },
+                    {
+                        "Word": "treaty",
+                        "Offset": 219800000,
+                        "Duration": 3700000
+                    },
+                    {
+                        "Word": "created",
+                        "Offset": 223600000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 228500000,
+                        "Duration": 1000000
+                    },
+                    {
+                        "Word": "league",
+                        "Offset": 229600000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "of",
+                        "Offset": 232100000,
+                        "Duration": 1000000
+                    },
+                    {
+                        "Word": "nations",
+                        "Offset": 233200000,
+                        "Duration": 4700000
+                    },
+                    {
+                        "Word": "made",
+                        "Offset": 238000000,
+                        "Duration": 1900000
+                    },
+                    {
+                        "Word": "up",
+                        "Offset": 240000000,
+                        "Duration": 1500000
+                    },
+                    {
+                        "Word": "of",
+                        "Offset": 241600000,
+                        "Duration": 1100000
+                    },
+                    {
+                        "Word": "forty",
+                        "Offset": 242800000,
+                        "Duration": 3300000
+                    },
+                    {
+                        "Word": "two",
+                        "Offset": 246200000,
+                        "Duration": 1900000
+                    },
+                    {
+                        "Word": "countries",
+                        "Offset": 248200000,
+                        "Duration": 5500000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 253800000,
+                        "Duration": 1300000
+                    },
+                    {
+                        "Word": "intended",
+                        "Offset": 255200000,
+                        "Duration": 5100000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 260400000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "resolve",
+                        "Offset": 261700000,
+                        "Duration": 4100000
+                    },
+                    {
+                        "Word": "international",
+                        "Offset": 265900000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "disputes",
+                        "Offset": 272000000,
+                        "Duration": 5500000
+                    },
+                    {
+                        "Word": "diplomatically",
+                        "Offset": 277600000,
+                        "Duration": 8500000
+                    },
+                    {
+                        "Word": "but",
+                        "Offset": 286800000,
+                        "Duration": 1300000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 288200000,
+                        "Duration": 1000000
+                    },
+                    {
+                        "Word": "US",
+                        "Offset": 289300000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "refused",
+                        "Offset": 293800000,
+                        "Duration": 5100000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 299000000,
+                        "Duration": 900000
+                    },
+                    {
+                        "Word": "join",
+                        "Offset": 300000000,
+                        "Duration": 3300000
+                    },
+                    {
+                        "Word": "which",
+                        "Offset": 303400000,
+                        "Duration": 2200000
+                    },
+                    {
+                        "Word": "made",
+                        "Offset": 305700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "it",
+                        "Offset": 307400000,
+                        "Duration": 900000
+                    },
+                    {
+                        "Word": "severely",
+                        "Offset": 308400000,
+                        "Duration": 4700000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.89207435,
+                "Lexical": "world war one officially ended when the peace treaty was signed on the twenty eighth of june nineteen nineteen the treaty ordered germany to pay reparations to the countries they had fought to help those countries rebuild and it was also ordered to hand over twenty five thousand square miles of land this puts severe strains on the german economy which was also trying to rebuild after the war and cause deep resentment among the german population the treaty created the league of nations made up of forty two countries and intended to resolve international disputes diplomatically but the us refused to join which made its severely",
+                "ITN": "world war one officially ended when the peace treaty was signed on the twenty eighth of june nineteen nineteen the treaty ordered germany to pay reparations to the countries they had fought to help those countries rebuild and it was also ordered to hand over twenty five thousand square miles of land this puts severe strains on the german economy which was also trying to rebuild after the war and cause deep resentment among the german population the treaty created the league of nations made up of forty two countries and intended to resolve international disputes diplomatically but the us refused to join which made its severely",
+                "MaskedITN": "world war one officially ended when the peace treaty was signed on the twenty eighth of june nineteen nineteen the treaty ordered germany to pay reparations to the countries they had fought to help those countries rebuild and it was also ordered to hand over twenty five thousand square miles of land this puts severe strains on the german economy which was also trying to rebuild after the war and cause deep resentment among the german population the treaty created the league of nations made up of forty two countries and intended to resolve international disputes diplomatically but the us refused to join which made its severely",
+                "Display": "world war one officially ended when the peace treaty was signed on the twenty eighth of june nineteen nineteen the treaty ordered germany to pay reparations to the countries they had fought to help those countries rebuild and it was also ordered to hand over twenty five thousand square miles of land this puts severe strains on the german economy which was also trying to rebuild after the war and cause deep resentment among the german population the treaty created the league of nations made up of forty two countries and intended to resolve international disputes diplomatically but the US refused to join which made its severely",
+                "Words": [
+                    {
+                        "Word": "world",
+                        "Offset": 3000000,
+                        "Duration": 3100000
+                    },
+                    {
+                        "Word": "war",
+                        "Offset": 6200000,
+                        "Duration": 1900000
+                    },
+                    {
+                        "Word": "one",
+                        "Offset": 8200000,
+                        "Duration": 2500000
+                    },
+                    {
+                        "Word": "officially",
+                        "Offset": 10800000,
+                        "Duration": 5100000
+                    },
+                    {
+                        "Word": "ended",
+                        "Offset": 16000000,
+                        "Duration": 3100000
+                    },
+                    {
+                        "Word": "when",
+                        "Offset": 19200000,
+                        "Duration": 1700000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 21000000,
+                        "Duration": 1100000
+                    },
+                    {
+                        "Word": "peace",
+                        "Offset": 22200000,
+                        "Duration": 3100000
+                    },
+                    {
+                        "Word": "treaty",
+                        "Offset": 25400000,
+                        "Duration": 3300000
+                    },
+                    {
+                        "Word": "was",
+                        "Offset": 28800000,
+                        "Duration": 1500000
+                    },
+                    {
+                        "Word": "signed",
+                        "Offset": 30400000,
+                        "Duration": 3500000
+                    },
+                    {
+                        "Word": "on",
+                        "Offset": 34000000,
+                        "Duration": 700000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 34800000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "twenty",
+                        "Offset": 36100000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "eighth",
+                        "Offset": 38600000,
+                        "Duration": 2300000
+                    },
+                    {
+                        "Word": "of",
+                        "Offset": 41000000,
+                        "Duration": 1100000
+                    },
+                    {
+                        "Word": "june",
+                        "Offset": 42200000,
+                        "Duration": 2500000
+                    },
+                    {
+                        "Word": "nineteen",
+                        "Offset": 44800000,
+                        "Duration": 4100000
+                    },
+                    {
+                        "Word": "nineteen",
+                        "Offset": 49000000,
+                        "Duration": 6500000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 56200000,
+                        "Duration": 1300000
+                    },
+                    {
+                        "Word": "treaty",
+                        "Offset": 57600000,
+                        "Duration": 3300000
+                    },
+                    {
+                        "Word": "ordered",
+                        "Offset": 61000000,
+                        "Duration": 3000000
+                    },
+                    {
+                        "Word": "germany",
+                        "Offset": 64100000,
+                        "Duration": 3400000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 67600000,
+                        "Duration": 1300000
+                    },
+                    {
+                        "Word": "pay",
+                        "Offset": 69000000,
+                        "Duration": 1800000
+                    },
+                    {
+                        "Word": "reparations",
+                        "Offset": 70900000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 79000000,
+                        "Duration": 1000000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 80100000,
+                        "Duration": 1000000
+                    },
+                    {
+                        "Word": "countries",
+                        "Offset": 81200000,
+                        "Duration": 4500000
+                    },
+                    {
+                        "Word": "they",
+                        "Offset": 85800000,
+                        "Duration": 1500000
+                    },
+                    {
+                        "Word": "had",
+                        "Offset": 87400000,
+                        "Duration": 1700000
+                    },
+                    {
+                        "Word": "fought",
+                        "Offset": 89200000,
+                        "Duration": 3500000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 92800000,
+                        "Duration": 1100000
+                    },
+                    {
+                        "Word": "help",
+                        "Offset": 94000000,
+                        "Duration": 2100000
+                    },
+                    {
+                        "Word": "those",
+                        "Offset": 96200000,
+                        "Duration": 2300000
+                    },
+                    {
+                        "Word": "countries",
+                        "Offset": 98600000,
+                        "Duration": 4500000
+                    },
+                    {
+                        "Word": "rebuild",
+                        "Offset": 103200000,
+                        "Duration": 5300000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 109200000,
+                        "Duration": 1300000
+                    },
+                    {
+                        "Word": "it",
+                        "Offset": 110600000,
+                        "Duration": 700000
+                    },
+                    {
+                        "Word": "was",
+                        "Offset": 111400000,
+                        "Duration": 1300000
+                    },
+                    {
+                        "Word": "also",
+                        "Offset": 112800000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "ordered",
+                        "Offset": 116100000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 119400000,
+                        "Duration": 1100000
+                    },
+                    {
+                        "Word": "hand",
+                        "Offset": 120600000,
+                        "Duration": 2100000
+                    },
+                    {
+                        "Word": "over",
+                        "Offset": 122800000,
+                        "Duration": 1700000
+                    },
+                    {
+                        "Word": "twenty",
+                        "Offset": 124600000,
+                        "Duration": 3500000
+                    },
+                    {
+                        "Word": "five",
+                        "Offset": 128200000,
+                        "Duration": 2200000
+                    },
+                    {
+                        "Word": "thousand",
+                        "Offset": 130500000,
+                        "Duration": 3800000
+                    },
+                    {
+                        "Word": "square",
+                        "Offset": 134400000,
+                        "Duration": 3500000
+                    },
+                    {
+                        "Word": "miles",
+                        "Offset": 138000000,
+                        "Duration": 3500000
+                    },
+                    {
+                        "Word": "of",
+                        "Offset": 141600000,
+                        "Duration": 1100000
+                    },
+                    {
+                        "Word": "land",
+                        "Offset": 142800000,
+                        "Duration": 4100000
+                    },
+                    {
+                        "Word": "this",
+                        "Offset": 147800000,
+                        "Duration": 2100000
+                    },
+                    {
+                        "Word": "puts",
+                        "Offset": 150000000,
+                        "Duration": 2200000
+                    },
+                    {
+                        "Word": "severe",
+                        "Offset": 152300000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "strains",
+                        "Offset": 155600000,
+                        "Duration": 4500000
+                    },
+                    {
+                        "Word": "on",
+                        "Offset": 160200000,
+                        "Duration": 900000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 161200000,
+                        "Duration": 1100000
+                    },
+                    {
+                        "Word": "german",
+                        "Offset": 162400000,
+                        "Duration": 3100000
+                    },
+                    {
+                        "Word": "economy",
+                        "Offset": 165600000,
+                        "Duration": 4600000
+                    },
+                    {
+                        "Word": "which",
+                        "Offset": 170300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "was",
+                        "Offset": 172400000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "also",
+                        "Offset": 173700000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "trying",
+                        "Offset": 177000000,
+                        "Duration": 2500000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 179600000,
+                        "Duration": 1100000
+                    },
+                    {
+                        "Word": "rebuild",
+                        "Offset": 180800000,
+                        "Duration": 3500000
+                    },
+                    {
+                        "Word": "after",
+                        "Offset": 184400000,
+                        "Duration": 2700000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 187200000,
+                        "Duration": 1100000
+                    },
+                    {
+                        "Word": "war",
+                        "Offset": 188400000,
+                        "Duration": 2300000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 190800000,
+                        "Duration": 1700000
+                    },
+                    {
+                        "Word": "cause",
+                        "Offset": 192600000,
+                        "Duration": 3100000
+                    },
+                    {
+                        "Word": "deep",
+                        "Offset": 195800000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "resentment",
+                        "Offset": 197900000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "among",
+                        "Offset": 203200000,
+                        "Duration": 2500000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 205800000,
+                        "Duration": 1100000
+                    },
+                    {
+                        "Word": "german",
+                        "Offset": 207000000,
+                        "Duration": 3300000
+                    },
+                    {
+                        "Word": "population",
+                        "Offset": 210400000,
+                        "Duration": 6900000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 218200000,
+                        "Duration": 1500000
+                    },
+                    {
+                        "Word": "treaty",
+                        "Offset": 219800000,
+                        "Duration": 3700000
+                    },
+                    {
+                        "Word": "created",
+                        "Offset": 223600000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 228500000,
+                        "Duration": 1000000
+                    },
+                    {
+                        "Word": "league",
+                        "Offset": 229600000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "of",
+                        "Offset": 232100000,
+                        "Duration": 1000000
+                    },
+                    {
+                        "Word": "nations",
+                        "Offset": 233200000,
+                        "Duration": 4700000
+                    },
+                    {
+                        "Word": "made",
+                        "Offset": 238000000,
+                        "Duration": 1900000
+                    },
+                    {
+                        "Word": "up",
+                        "Offset": 240000000,
+                        "Duration": 1500000
+                    },
+                    {
+                        "Word": "of",
+                        "Offset": 241600000,
+                        "Duration": 1100000
+                    },
+                    {
+                        "Word": "forty",
+                        "Offset": 242800000,
+                        "Duration": 3300000
+                    },
+                    {
+                        "Word": "two",
+                        "Offset": 246200000,
+                        "Duration": 1900000
+                    },
+                    {
+                        "Word": "countries",
+                        "Offset": 248200000,
+                        "Duration": 5500000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 253800000,
+                        "Duration": 1300000
+                    },
+                    {
+                        "Word": "intended",
+                        "Offset": 255200000,
+                        "Duration": 5100000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 260400000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "resolve",
+                        "Offset": 261700000,
+                        "Duration": 4100000
+                    },
+                    {
+                        "Word": "international",
+                        "Offset": 265900000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "disputes",
+                        "Offset": 272000000,
+                        "Duration": 5500000
+                    },
+                    {
+                        "Word": "diplomatically",
+                        "Offset": 277600000,
+                        "Duration": 8500000
+                    },
+                    {
+                        "Word": "but",
+                        "Offset": 286800000,
+                        "Duration": 1300000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 288200000,
+                        "Duration": 1000000
+                    },
+                    {
+                        "Word": "US",
+                        "Offset": 289300000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "refused",
+                        "Offset": 293800000,
+                        "Duration": 5100000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 299000000,
+                        "Duration": 900000
+                    },
+                    {
+                        "Word": "join",
+                        "Offset": 300000000,
+                        "Duration": 3300000
+                    },
+                    {
+                        "Word": "which",
+                        "Offset": 303400000,
+                        "Duration": 2200000
+                    },
+                    {
+                        "Word": "made",
+                        "Offset": 305700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "its",
+                        "Offset": 307400000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "severely",
+                        "Offset": 308700000,
+                        "Duration": 4400000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.8905356,
+                "Lexical": "world war one officially ended when the peace treaty was signed on the twenty eighth of june nineteen nineteen the treaty ordered germany to pay reparations to the countries they had fought to help those countries rebuild and it was also ordered to hand over twenty five thousand square miles of land this put severe strains on the german economy which was also trying to rebuild after the war and cause deep resentment among the german population the treaty created the league of nations made up of forty two countries and intended to resolve international disputes diplomatically but the us refused to join which made it severely",
+                "ITN": "world war one officially ended when the peace treaty was signed on the twenty eighth of june nineteen nineteen the treaty ordered germany to pay reparations to the countries they had fought to help those countries rebuild and it was also ordered to hand over twenty five thousand square miles of land this put severe strains on the german economy which was also trying to rebuild after the war and cause deep resentment among the german population the treaty created the league of nations made up of forty two countries and intended to resolve international disputes diplomatically but the us refused to join which made it severely",
+                "MaskedITN": "world war one officially ended when the peace treaty was signed on the twenty eighth of june nineteen nineteen the treaty ordered germany to pay reparations to the countries they had fought to help those countries rebuild and it was also ordered to hand over twenty five thousand square miles of land this put severe strains on the german economy which was also trying to rebuild after the war and cause deep resentment among the german population the treaty created the league of nations made up of forty two countries and intended to resolve international disputes diplomatically but the us refused to join which made it severely",
+                "Display": "world war one officially ended when the peace treaty was signed on the twenty eighth of june nineteen nineteen the treaty ordered germany to pay reparations to the countries they had fought to help those countries rebuild and it was also ordered to hand over twenty five thousand square miles of land this put severe strains on the german economy which was also trying to rebuild after the war and cause deep resentment among the german population the treaty created the league of nations made up of forty two countries and intended to resolve international disputes diplomatically but the US refused to join which made it severely",
+                "Words": [
+                    {
+                        "Word": "world",
+                        "Offset": 3000000,
+                        "Duration": 3100000
+                    },
+                    {
+                        "Word": "war",
+                        "Offset": 6200000,
+                        "Duration": 1900000
+                    },
+                    {
+                        "Word": "one",
+                        "Offset": 8200000,
+                        "Duration": 2500000
+                    },
+                    {
+                        "Word": "officially",
+                        "Offset": 10800000,
+                        "Duration": 5100000
+                    },
+                    {
+                        "Word": "ended",
+                        "Offset": 16000000,
+                        "Duration": 3100000
+                    },
+                    {
+                        "Word": "when",
+                        "Offset": 19200000,
+                        "Duration": 1700000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 21000000,
+                        "Duration": 1100000
+                    },
+                    {
+                        "Word": "peace",
+                        "Offset": 22200000,
+                        "Duration": 3100000
+                    },
+                    {
+                        "Word": "treaty",
+                        "Offset": 25400000,
+                        "Duration": 3300000
+                    },
+                    {
+                        "Word": "was",
+                        "Offset": 28800000,
+                        "Duration": 1500000
+                    },
+                    {
+                        "Word": "signed",
+                        "Offset": 30400000,
+                        "Duration": 3500000
+                    },
+                    {
+                        "Word": "on",
+                        "Offset": 34000000,
+                        "Duration": 700000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 34800000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "twenty",
+                        "Offset": 36100000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "eighth",
+                        "Offset": 38600000,
+                        "Duration": 2300000
+                    },
+                    {
+                        "Word": "of",
+                        "Offset": 41000000,
+                        "Duration": 1100000
+                    },
+                    {
+                        "Word": "june",
+                        "Offset": 42200000,
+                        "Duration": 2500000
+                    },
+                    {
+                        "Word": "nineteen",
+                        "Offset": 44800000,
+                        "Duration": 4100000
+                    },
+                    {
+                        "Word": "nineteen",
+                        "Offset": 49000000,
+                        "Duration": 6500000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 56200000,
+                        "Duration": 1300000
+                    },
+                    {
+                        "Word": "treaty",
+                        "Offset": 57600000,
+                        "Duration": 3300000
+                    },
+                    {
+                        "Word": "ordered",
+                        "Offset": 61000000,
+                        "Duration": 3000000
+                    },
+                    {
+                        "Word": "germany",
+                        "Offset": 64100000,
+                        "Duration": 3400000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 67600000,
+                        "Duration": 1300000
+                    },
+                    {
+                        "Word": "pay",
+                        "Offset": 69000000,
+                        "Duration": 1800000
+                    },
+                    {
+                        "Word": "reparations",
+                        "Offset": 70900000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 79000000,
+                        "Duration": 1000000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 80100000,
+                        "Duration": 1000000
+                    },
+                    {
+                        "Word": "countries",
+                        "Offset": 81200000,
+                        "Duration": 4500000
+                    },
+                    {
+                        "Word": "they",
+                        "Offset": 85800000,
+                        "Duration": 1500000
+                    },
+                    {
+                        "Word": "had",
+                        "Offset": 87400000,
+                        "Duration": 1700000
+                    },
+                    {
+                        "Word": "fought",
+                        "Offset": 89200000,
+                        "Duration": 3500000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 92800000,
+                        "Duration": 1100000
+                    },
+                    {
+                        "Word": "help",
+                        "Offset": 94000000,
+                        "Duration": 2100000
+                    },
+                    {
+                        "Word": "those",
+                        "Offset": 96200000,
+                        "Duration": 2300000
+                    },
+                    {
+                        "Word": "countries",
+                        "Offset": 98600000,
+                        "Duration": 4500000
+                    },
+                    {
+                        "Word": "rebuild",
+                        "Offset": 103200000,
+                        "Duration": 5300000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 109200000,
+                        "Duration": 1300000
+                    },
+                    {
+                        "Word": "it",
+                        "Offset": 110600000,
+                        "Duration": 700000
+                    },
+                    {
+                        "Word": "was",
+                        "Offset": 111400000,
+                        "Duration": 1300000
+                    },
+                    {
+                        "Word": "also",
+                        "Offset": 112800000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "ordered",
+                        "Offset": 116100000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 119400000,
+                        "Duration": 1100000
+                    },
+                    {
+                        "Word": "hand",
+                        "Offset": 120600000,
+                        "Duration": 2100000
+                    },
+                    {
+                        "Word": "over",
+                        "Offset": 122800000,
+                        "Duration": 1700000
+                    },
+                    {
+                        "Word": "twenty",
+                        "Offset": 124600000,
+                        "Duration": 3500000
+                    },
+                    {
+                        "Word": "five",
+                        "Offset": 128200000,
+                        "Duration": 2200000
+                    },
+                    {
+                        "Word": "thousand",
+                        "Offset": 130500000,
+                        "Duration": 3800000
+                    },
+                    {
+                        "Word": "square",
+                        "Offset": 134400000,
+                        "Duration": 3500000
+                    },
+                    {
+                        "Word": "miles",
+                        "Offset": 138000000,
+                        "Duration": 3500000
+                    },
+                    {
+                        "Word": "of",
+                        "Offset": 141600000,
+                        "Duration": 1100000
+                    },
+                    {
+                        "Word": "land",
+                        "Offset": 142800000,
+                        "Duration": 4100000
+                    },
+                    {
+                        "Word": "this",
+                        "Offset": 147800000,
+                        "Duration": 2100000
+                    },
+                    {
+                        "Word": "put",
+                        "Offset": 150000000,
+                        "Duration": 1900000
+                    },
+                    {
+                        "Word": "severe",
+                        "Offset": 152000000,
+                        "Duration": 3500000
+                    },
+                    {
+                        "Word": "strains",
+                        "Offset": 155600000,
+                        "Duration": 4500000
+                    },
+                    {
+                        "Word": "on",
+                        "Offset": 160200000,
+                        "Duration": 900000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 161200000,
+                        "Duration": 1100000
+                    },
+                    {
+                        "Word": "german",
+                        "Offset": 162400000,
+                        "Duration": 3100000
+                    },
+                    {
+                        "Word": "economy",
+                        "Offset": 165600000,
+                        "Duration": 4600000
+                    },
+                    {
+                        "Word": "which",
+                        "Offset": 170300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "was",
+                        "Offset": 172400000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "also",
+                        "Offset": 173700000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "trying",
+                        "Offset": 177000000,
+                        "Duration": 2500000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 179600000,
+                        "Duration": 1100000
+                    },
+                    {
+                        "Word": "rebuild",
+                        "Offset": 180800000,
+                        "Duration": 3500000
+                    },
+                    {
+                        "Word": "after",
+                        "Offset": 184400000,
+                        "Duration": 2700000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 187200000,
+                        "Duration": 1100000
+                    },
+                    {
+                        "Word": "war",
+                        "Offset": 188400000,
+                        "Duration": 2300000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 190800000,
+                        "Duration": 1700000
+                    },
+                    {
+                        "Word": "cause",
+                        "Offset": 192600000,
+                        "Duration": 3100000
+                    },
+                    {
+                        "Word": "deep",
+                        "Offset": 195800000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "resentment",
+                        "Offset": 197900000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "among",
+                        "Offset": 203200000,
+                        "Duration": 2500000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 205800000,
+                        "Duration": 1100000
+                    },
+                    {
+                        "Word": "german",
+                        "Offset": 207000000,
+                        "Duration": 3300000
+                    },
+                    {
+                        "Word": "population",
+                        "Offset": 210400000,
+                        "Duration": 6900000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 218200000,
+                        "Duration": 1500000
+                    },
+                    {
+                        "Word": "treaty",
+                        "Offset": 219800000,
+                        "Duration": 3700000
+                    },
+                    {
+                        "Word": "created",
+                        "Offset": 223600000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 228500000,
+                        "Duration": 1000000
+                    },
+                    {
+                        "Word": "league",
+                        "Offset": 229600000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "of",
+                        "Offset": 232100000,
+                        "Duration": 1000000
+                    },
+                    {
+                        "Word": "nations",
+                        "Offset": 233200000,
+                        "Duration": 4700000
+                    },
+                    {
+                        "Word": "made",
+                        "Offset": 238000000,
+                        "Duration": 1900000
+                    },
+                    {
+                        "Word": "up",
+                        "Offset": 240000000,
+                        "Duration": 1500000
+                    },
+                    {
+                        "Word": "of",
+                        "Offset": 241600000,
+                        "Duration": 1100000
+                    },
+                    {
+                        "Word": "forty",
+                        "Offset": 242800000,
+                        "Duration": 3300000
+                    },
+                    {
+                        "Word": "two",
+                        "Offset": 246200000,
+                        "Duration": 1900000
+                    },
+                    {
+                        "Word": "countries",
+                        "Offset": 248200000,
+                        "Duration": 5500000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 253800000,
+                        "Duration": 1300000
+                    },
+                    {
+                        "Word": "intended",
+                        "Offset": 255200000,
+                        "Duration": 5100000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 260400000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "resolve",
+                        "Offset": 261700000,
+                        "Duration": 4100000
+                    },
+                    {
+                        "Word": "international",
+                        "Offset": 265900000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "disputes",
+                        "Offset": 272000000,
+                        "Duration": 5500000
+                    },
+                    {
+                        "Word": "diplomatically",
+                        "Offset": 277600000,
+                        "Duration": 8500000
+                    },
+                    {
+                        "Word": "but",
+                        "Offset": 286800000,
+                        "Duration": 1300000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 288200000,
+                        "Duration": 1000000
+                    },
+                    {
+                        "Word": "US",
+                        "Offset": 289300000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "refused",
+                        "Offset": 293800000,
+                        "Duration": 5100000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 299000000,
+                        "Duration": 900000
+                    },
+                    {
+                        "Word": "join",
+                        "Offset": 300000000,
+                        "Duration": 3300000
+                    },
+                    {
+                        "Word": "which",
+                        "Offset": 303400000,
+                        "Duration": 2200000
+                    },
+                    {
+                        "Word": "made",
+                        "Offset": 305700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "it",
+                        "Offset": 307400000,
+                        "Duration": 900000
+                    },
+                    {
+                        "Word": "severely",
+                        "Offset": 308400000,
+                        "Duration": 4700000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.89095104,
+                "Lexical": "world war one officially ended when the peace treaty was signed on the twenty eighth of june nineteen nineteen the treaty ordered germany to pay reparations to the countries they had fought to help those countries rebuild and it was also ordered to hand over twenty five thousand square miles of land this put severe strains on the german economy which was also trying to rebuild after the war and cause deep resentment among the german population the treaty created the league of nations made up of forty two countries and intended to resolve international disputes diplomatically but the us refused to join which made its severely",
+                "ITN": "world war one officially ended when the peace treaty was signed on the twenty eighth of june nineteen nineteen the treaty ordered germany to pay reparations to the countries they had fought to help those countries rebuild and it was also ordered to hand over twenty five thousand square miles of land this put severe strains on the german economy which was also trying to rebuild after the war and cause deep resentment among the german population the treaty created the league of nations made up of forty two countries and intended to resolve international disputes diplomatically but the us refused to join which made its severely",
+                "MaskedITN": "world war one officially ended when the peace treaty was signed on the twenty eighth of june nineteen nineteen the treaty ordered germany to pay reparations to the countries they had fought to help those countries rebuild and it was also ordered to hand over twenty five thousand square miles of land this put severe strains on the german economy which was also trying to rebuild after the war and cause deep resentment among the german population the treaty created the league of nations made up of forty two countries and intended to resolve international disputes diplomatically but the us refused to join which made its severely",
+                "Display": "world war one officially ended when the peace treaty was signed on the twenty eighth of june nineteen nineteen the treaty ordered germany to pay reparations to the countries they had fought to help those countries rebuild and it was also ordered to hand over twenty five thousand square miles of land this put severe strains on the german economy which was also trying to rebuild after the war and cause deep resentment among the german population the treaty created the league of nations made up of forty two countries and intended to resolve international disputes diplomatically but the US refused to join which made its severely",
+                "Words": [
+                    {
+                        "Word": "world",
+                        "Offset": 3000000,
+                        "Duration": 3100000
+                    },
+                    {
+                        "Word": "war",
+                        "Offset": 6200000,
+                        "Duration": 1900000
+                    },
+                    {
+                        "Word": "one",
+                        "Offset": 8200000,
+                        "Duration": 2500000
+                    },
+                    {
+                        "Word": "officially",
+                        "Offset": 10800000,
+                        "Duration": 5100000
+                    },
+                    {
+                        "Word": "ended",
+                        "Offset": 16000000,
+                        "Duration": 3100000
+                    },
+                    {
+                        "Word": "when",
+                        "Offset": 19200000,
+                        "Duration": 1700000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 21000000,
+                        "Duration": 1100000
+                    },
+                    {
+                        "Word": "peace",
+                        "Offset": 22200000,
+                        "Duration": 3100000
+                    },
+                    {
+                        "Word": "treaty",
+                        "Offset": 25400000,
+                        "Duration": 3300000
+                    },
+                    {
+                        "Word": "was",
+                        "Offset": 28800000,
+                        "Duration": 1500000
+                    },
+                    {
+                        "Word": "signed",
+                        "Offset": 30400000,
+                        "Duration": 3500000
+                    },
+                    {
+                        "Word": "on",
+                        "Offset": 34000000,
+                        "Duration": 700000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 34800000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "twenty",
+                        "Offset": 36100000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "eighth",
+                        "Offset": 38600000,
+                        "Duration": 2300000
+                    },
+                    {
+                        "Word": "of",
+                        "Offset": 41000000,
+                        "Duration": 1100000
+                    },
+                    {
+                        "Word": "june",
+                        "Offset": 42200000,
+                        "Duration": 2500000
+                    },
+                    {
+                        "Word": "nineteen",
+                        "Offset": 44800000,
+                        "Duration": 4100000
+                    },
+                    {
+                        "Word": "nineteen",
+                        "Offset": 49000000,
+                        "Duration": 6500000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 56200000,
+                        "Duration": 1300000
+                    },
+                    {
+                        "Word": "treaty",
+                        "Offset": 57600000,
+                        "Duration": 3300000
+                    },
+                    {
+                        "Word": "ordered",
+                        "Offset": 61000000,
+                        "Duration": 3000000
+                    },
+                    {
+                        "Word": "germany",
+                        "Offset": 64100000,
+                        "Duration": 3400000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 67600000,
+                        "Duration": 1300000
+                    },
+                    {
+                        "Word": "pay",
+                        "Offset": 69000000,
+                        "Duration": 1800000
+                    },
+                    {
+                        "Word": "reparations",
+                        "Offset": 70900000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 79000000,
+                        "Duration": 1000000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 80100000,
+                        "Duration": 1000000
+                    },
+                    {
+                        "Word": "countries",
+                        "Offset": 81200000,
+                        "Duration": 4500000
+                    },
+                    {
+                        "Word": "they",
+                        "Offset": 85800000,
+                        "Duration": 1500000
+                    },
+                    {
+                        "Word": "had",
+                        "Offset": 87400000,
+                        "Duration": 1700000
+                    },
+                    {
+                        "Word": "fought",
+                        "Offset": 89200000,
+                        "Duration": 3500000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 92800000,
+                        "Duration": 1100000
+                    },
+                    {
+                        "Word": "help",
+                        "Offset": 94000000,
+                        "Duration": 2100000
+                    },
+                    {
+                        "Word": "those",
+                        "Offset": 96200000,
+                        "Duration": 2300000
+                    },
+                    {
+                        "Word": "countries",
+                        "Offset": 98600000,
+                        "Duration": 4500000
+                    },
+                    {
+                        "Word": "rebuild",
+                        "Offset": 103200000,
+                        "Duration": 5300000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 109200000,
+                        "Duration": 1300000
+                    },
+                    {
+                        "Word": "it",
+                        "Offset": 110600000,
+                        "Duration": 700000
+                    },
+                    {
+                        "Word": "was",
+                        "Offset": 111400000,
+                        "Duration": 1300000
+                    },
+                    {
+                        "Word": "also",
+                        "Offset": 112800000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "ordered",
+                        "Offset": 116100000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 119400000,
+                        "Duration": 1100000
+                    },
+                    {
+                        "Word": "hand",
+                        "Offset": 120600000,
+                        "Duration": 2100000
+                    },
+                    {
+                        "Word": "over",
+                        "Offset": 122800000,
+                        "Duration": 1700000
+                    },
+                    {
+                        "Word": "twenty",
+                        "Offset": 124600000,
+                        "Duration": 3500000
+                    },
+                    {
+                        "Word": "five",
+                        "Offset": 128200000,
+                        "Duration": 2200000
+                    },
+                    {
+                        "Word": "thousand",
+                        "Offset": 130500000,
+                        "Duration": 3800000
+                    },
+                    {
+                        "Word": "square",
+                        "Offset": 134400000,
+                        "Duration": 3500000
+                    },
+                    {
+                        "Word": "miles",
+                        "Offset": 138000000,
+                        "Duration": 3500000
+                    },
+                    {
+                        "Word": "of",
+                        "Offset": 141600000,
+                        "Duration": 1100000
+                    },
+                    {
+                        "Word": "land",
+                        "Offset": 142800000,
+                        "Duration": 4100000
+                    },
+                    {
+                        "Word": "this",
+                        "Offset": 147800000,
+                        "Duration": 2100000
+                    },
+                    {
+                        "Word": "put",
+                        "Offset": 150000000,
+                        "Duration": 1900000
+                    },
+                    {
+                        "Word": "severe",
+                        "Offset": 152000000,
+                        "Duration": 3500000
+                    },
+                    {
+                        "Word": "strains",
+                        "Offset": 155600000,
+                        "Duration": 4500000
+                    },
+                    {
+                        "Word": "on",
+                        "Offset": 160200000,
+                        "Duration": 900000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 161200000,
+                        "Duration": 1100000
+                    },
+                    {
+                        "Word": "german",
+                        "Offset": 162400000,
+                        "Duration": 3100000
+                    },
+                    {
+                        "Word": "economy",
+                        "Offset": 165600000,
+                        "Duration": 4600000
+                    },
+                    {
+                        "Word": "which",
+                        "Offset": 170300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "was",
+                        "Offset": 172400000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "also",
+                        "Offset": 173700000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "trying",
+                        "Offset": 177000000,
+                        "Duration": 2500000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 179600000,
+                        "Duration": 1100000
+                    },
+                    {
+                        "Word": "rebuild",
+                        "Offset": 180800000,
+                        "Duration": 3500000
+                    },
+                    {
+                        "Word": "after",
+                        "Offset": 184400000,
+                        "Duration": 2700000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 187200000,
+                        "Duration": 1100000
+                    },
+                    {
+                        "Word": "war",
+                        "Offset": 188400000,
+                        "Duration": 2300000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 190800000,
+                        "Duration": 1700000
+                    },
+                    {
+                        "Word": "cause",
+                        "Offset": 192600000,
+                        "Duration": 3100000
+                    },
+                    {
+                        "Word": "deep",
+                        "Offset": 195800000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "resentment",
+                        "Offset": 197900000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "among",
+                        "Offset": 203200000,
+                        "Duration": 2500000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 205800000,
+                        "Duration": 1100000
+                    },
+                    {
+                        "Word": "german",
+                        "Offset": 207000000,
+                        "Duration": 3300000
+                    },
+                    {
+                        "Word": "population",
+                        "Offset": 210400000,
+                        "Duration": 6900000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 218200000,
+                        "Duration": 1500000
+                    },
+                    {
+                        "Word": "treaty",
+                        "Offset": 219800000,
+                        "Duration": 3700000
+                    },
+                    {
+                        "Word": "created",
+                        "Offset": 223600000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 228500000,
+                        "Duration": 1000000
+                    },
+                    {
+                        "Word": "league",
+                        "Offset": 229600000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "of",
+                        "Offset": 232100000,
+                        "Duration": 1000000
+                    },
+                    {
+                        "Word": "nations",
+                        "Offset": 233200000,
+                        "Duration": 4700000
+                    },
+                    {
+                        "Word": "made",
+                        "Offset": 238000000,
+                        "Duration": 1900000
+                    },
+                    {
+                        "Word": "up",
+                        "Offset": 240000000,
+                        "Duration": 1500000
+                    },
+                    {
+                        "Word": "of",
+                        "Offset": 241600000,
+                        "Duration": 1100000
+                    },
+                    {
+                        "Word": "forty",
+                        "Offset": 242800000,
+                        "Duration": 3300000
+                    },
+                    {
+                        "Word": "two",
+                        "Offset": 246200000,
+                        "Duration": 1900000
+                    },
+                    {
+                        "Word": "countries",
+                        "Offset": 248200000,
+                        "Duration": 5500000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 253800000,
+                        "Duration": 1300000
+                    },
+                    {
+                        "Word": "intended",
+                        "Offset": 255200000,
+                        "Duration": 5100000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 260400000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "resolve",
+                        "Offset": 261700000,
+                        "Duration": 4100000
+                    },
+                    {
+                        "Word": "international",
+                        "Offset": 265900000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "disputes",
+                        "Offset": 272000000,
+                        "Duration": 5500000
+                    },
+                    {
+                        "Word": "diplomatically",
+                        "Offset": 277600000,
+                        "Duration": 8500000
+                    },
+                    {
+                        "Word": "but",
+                        "Offset": 286800000,
+                        "Duration": 1300000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 288200000,
+                        "Duration": 1000000
+                    },
+                    {
+                        "Word": "US",
+                        "Offset": 289300000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "refused",
+                        "Offset": 293800000,
+                        "Duration": 5100000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 299000000,
+                        "Duration": 900000
+                    },
+                    {
+                        "Word": "join",
+                        "Offset": 300000000,
+                        "Duration": 3300000
+                    },
+                    {
+                        "Word": "which",
+                        "Offset": 303400000,
+                        "Duration": 2200000
+                    },
+                    {
+                        "Word": "made",
+                        "Offset": 305700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "its",
+                        "Offset": 307400000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "severely",
+                        "Offset": 308700000,
+                        "Duration": 4400000
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": "ef9df915453f478cb02ffb3eafcddbfc",
+        "RecognitionStatus": 0,
+        "Offset": 313800000,
+        "Duration": 285800000,
+        "Channel": 0,
+        "DisplayText": "Beacon ineffective limits were placed on Germany's military immediately. Germany began to break terms of the treaty by rearming and after elected Hitler, who strongly opposed the Treaty of Versailles. Rearmament increased more rapidly than in 1938. Germany invaded Austria, followed by parts of Czechoslovakia. Rather than start another war, Britain and France adopted a policy of appeasement, tolerating Germany's action up to that point. In return for assurances that it would not continue, Germany signed a pact with.",
+        "NBest": [
+            {
+                "Confidence": 0.8304451,
+                "Lexical": "beacon ineffective limits were placed on germany 's military immediately germany began to break terms of the treaty by rearming and after elected hitler who strongly opposed the treaty of versailles rearmament increased more rapidly than in nineteen thirty eight germany invaded austria followed by parts of czechoslovakia rather than start another war britain and france adopted a policy of appeasement tolerating germany 's action up to that point in return for assurances that it would not continue germany signed a pact with",
+                "ITN": "beacon ineffective limits were placed on germany's military immediately germany began to break terms of the treaty by rearming and after elected hitler who strongly opposed the treaty of versailles rearmament increased more rapidly than in 1938 germany invaded austria followed by parts of czechoslovakia rather than start another war britain and france adopted a policy of appeasement tolerating germany's action up to that point in return for assurances that it would not continue germany signed a pact with",
+                "MaskedITN": "beacon ineffective limits were placed on germany's military immediately germany began to break terms of the treaty by rearming and after elected hitler who strongly opposed the treaty of versailles rearmament increased more rapidly than in 1938 germany invaded austria followed by parts of czechoslovakia rather than start another war britain and france adopted a policy of appeasement tolerating germany's action up to that point in return for assurances that it would not continue germany signed a pact with",
+                "Display": "Beacon ineffective limits were placed on Germany's military immediately. Germany began to break terms of the treaty by rearming and after elected Hitler, who strongly opposed the Treaty of Versailles. Rearmament increased more rapidly than in 1938. Germany invaded Austria, followed by parts of Czechoslovakia. Rather than start another war, Britain and France adopted a policy of appeasement, tolerating Germany's action up to that point. In return for assurances that it would not continue, Germany signed a pact with.",
+                "Words": [
+                    {
+                        "Word": "beacon",
+                        "Offset": 313800000,
+                        "Duration": 3800000
+                    },
+                    {
+                        "Word": "ineffective",
+                        "Offset": 317700000,
+                        "Duration": 8100000
+                    },
+                    {
+                        "Word": "limits",
+                        "Offset": 326300000,
+                        "Duration": 3700000
+                    },
+                    {
+                        "Word": "were",
+                        "Offset": 330100000,
+                        "Duration": 1500000
+                    },
+                    {
+                        "Word": "placed",
+                        "Offset": 331700000,
+                        "Duration": 3500000
+                    },
+                    {
+                        "Word": "on",
+                        "Offset": 335300000,
+                        "Duration": 1300000
+                    },
+                    {
+                        "Word": "germany",
+                        "Offset": 336700000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "'s",
+                        "Offset": 340400000,
+                        "Duration": 1400000
+                    },
+                    {
+                        "Word": "military",
+                        "Offset": 341900000,
+                        "Duration": 5900000
+                    },
+                    {
+                        "Word": "immediately",
+                        "Offset": 348500000,
+                        "Duration": 6500000
+                    },
+                    {
+                        "Word": "germany",
+                        "Offset": 355100000,
+                        "Duration": 4100000
+                    },
+                    {
+                        "Word": "began",
+                        "Offset": 359300000,
+                        "Duration": 2900000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 362300000,
+                        "Duration": 1300000
+                    },
+                    {
+                        "Word": "break",
+                        "Offset": 363700000,
+                        "Duration": 2500000
+                    },
+                    {
+                        "Word": "terms",
+                        "Offset": 366300000,
+                        "Duration": 3500000
+                    },
+                    {
+                        "Word": "of",
+                        "Offset": 369900000,
+                        "Duration": 900000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 370900000,
+                        "Duration": 1100000
+                    },
+                    {
+                        "Word": "treaty",
+                        "Offset": 372100000,
+                        "Duration": 4300000
+                    },
+                    {
+                        "Word": "by",
+                        "Offset": 376500000,
+                        "Duration": 2100000
+                    },
+                    {
+                        "Word": "rearming",
+                        "Offset": 378700000,
+                        "Duration": 5900000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 384700000,
+                        "Duration": 1900000
+                    },
+                    {
+                        "Word": "after",
+                        "Offset": 386700000,
+                        "Duration": 4900000
+                    },
+                    {
+                        "Word": "elected",
+                        "Offset": 391700000,
+                        "Duration": 4900000
+                    },
+                    {
+                        "Word": "hitler",
+                        "Offset": 396700000,
+                        "Duration": 3900000
+                    },
+                    {
+                        "Word": "who",
+                        "Offset": 400700000,
+                        "Duration": 1500000
+                    },
+                    {
+                        "Word": "strongly",
+                        "Offset": 402300000,
+                        "Duration": 4900000
+                    },
+                    {
+                        "Word": "opposed",
+                        "Offset": 407300000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 411800000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "treaty",
+                        "Offset": 413100000,
+                        "Duration": 3100000
+                    },
+                    {
+                        "Word": "of",
+                        "Offset": 416300000,
+                        "Duration": 1100000
+                    },
+                    {
+                        "Word": "versailles",
+                        "Offset": 417500000,
+                        "Duration": 5700000
+                    },
+                    {
+                        "Word": "rearmament",
+                        "Offset": 423300000,
+                        "Duration": 6900000
+                    },
+                    {
+                        "Word": "increased",
+                        "Offset": 430300000,
+                        "Duration": 5900000
+                    },
+                    {
+                        "Word": "more",
+                        "Offset": 436300000,
+                        "Duration": 2100000
+                    },
+                    {
+                        "Word": "rapidly",
+                        "Offset": 438500000,
+                        "Duration": 5500000
+                    },
+                    {
+                        "Word": "than",
+                        "Offset": 444700000,
+                        "Duration": 2700000
+                    },
+                    {
+                        "Word": "in",
+                        "Offset": 447500000,
+                        "Duration": 1300000
+                    },
+                    {
+                        "Word": "nineteen",
+                        "Offset": 448900000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "thirty",
+                        "Offset": 453000000,
+                        "Duration": 3500000
+                    },
+                    {
+                        "Word": "eight",
+                        "Offset": 456600000,
+                        "Duration": 2200000
+                    },
+                    {
+                        "Word": "germany",
+                        "Offset": 458900000,
+                        "Duration": 3900000
+                    },
+                    {
+                        "Word": "invaded",
+                        "Offset": 462900000,
+                        "Duration": 4900000
+                    },
+                    {
+                        "Word": "austria",
+                        "Offset": 467900000,
+                        "Duration": 4900000
+                    },
+                    {
+                        "Word": "followed",
+                        "Offset": 472900000,
+                        "Duration": 3500000
+                    },
+                    {
+                        "Word": "by",
+                        "Offset": 476500000,
+                        "Duration": 1700000
+                    },
+                    {
+                        "Word": "parts",
+                        "Offset": 478300000,
+                        "Duration": 3100000
+                    },
+                    {
+                        "Word": "of",
+                        "Offset": 481500000,
+                        "Duration": 1100000
+                    },
+                    {
+                        "Word": "czechoslovakia",
+                        "Offset": 482700000,
+                        "Duration": 9300000
+                    },
+                    {
+                        "Word": "rather",
+                        "Offset": 492700000,
+                        "Duration": 3500000
+                    },
+                    {
+                        "Word": "than",
+                        "Offset": 496300000,
+                        "Duration": 1500000
+                    },
+                    {
+                        "Word": "start",
+                        "Offset": 497900000,
+                        "Duration": 3100000
+                    },
+                    {
+                        "Word": "another",
+                        "Offset": 501100000,
+                        "Duration": 2900000
+                    },
+                    {
+                        "Word": "war",
+                        "Offset": 504100000,
+                        "Duration": 2700000
+                    },
+                    {
+                        "Word": "britain",
+                        "Offset": 506900000,
+                        "Duration": 3300000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 510300000,
+                        "Duration": 1500000
+                    },
+                    {
+                        "Word": "france",
+                        "Offset": 511900000,
+                        "Duration": 3700000
+                    },
+                    {
+                        "Word": "adopted",
+                        "Offset": 515700000,
+                        "Duration": 4700000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 520500000,
+                        "Duration": 900000
+                    },
+                    {
+                        "Word": "policy",
+                        "Offset": 521500000,
+                        "Duration": 4700000
+                    },
+                    {
+                        "Word": "of",
+                        "Offset": 526300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "appeasement",
+                        "Offset": 527600000,
+                        "Duration": 6900000
+                    },
+                    {
+                        "Word": "tolerating",
+                        "Offset": 534600000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "germany",
+                        "Offset": 541500000,
+                        "Duration": 3500000
+                    },
+                    {
+                        "Word": "'s",
+                        "Offset": 545100000,
+                        "Duration": 1000000
+                    },
+                    {
+                        "Word": "action",
+                        "Offset": 546200000,
+                        "Duration": 3800000
+                    },
+                    {
+                        "Word": "up",
+                        "Offset": 550100000,
+                        "Duration": 1900000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 552100000,
+                        "Duration": 1300000
+                    },
+                    {
+                        "Word": "that",
+                        "Offset": 553500000,
+                        "Duration": 1900000
+                    },
+                    {
+                        "Word": "point",
+                        "Offset": 555500000,
+                        "Duration": 3300000
+                    },
+                    {
+                        "Word": "in",
+                        "Offset": 558900000,
+                        "Duration": 1300000
+                    },
+                    {
+                        "Word": "return",
+                        "Offset": 560300000,
+                        "Duration": 4500000
+                    },
+                    {
+                        "Word": "for",
+                        "Offset": 564900000,
+                        "Duration": 1300000
+                    },
+                    {
+                        "Word": "assurances",
+                        "Offset": 566300000,
+                        "Duration": 6200000
+                    },
+                    {
+                        "Word": "that",
+                        "Offset": 572600000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "it",
+                        "Offset": 574300000,
+                        "Duration": 900000
+                    },
+                    {
+                        "Word": "would",
+                        "Offset": 575300000,
+                        "Duration": 1900000
+                    },
+                    {
+                        "Word": "not",
+                        "Offset": 577300000,
+                        "Duration": 1700000
+                    },
+                    {
+                        "Word": "continue",
+                        "Offset": 579100000,
+                        "Duration": 5900000
+                    },
+                    {
+                        "Word": "germany",
+                        "Offset": 585500000,
+                        "Duration": 4300000
+                    },
+                    {
+                        "Word": "signed",
+                        "Offset": 589900000,
+                        "Duration": 3100000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 593100000,
+                        "Duration": 900000
+                    },
+                    {
+                        "Word": "pact",
+                        "Offset": 594100000,
+                        "Duration": 3900000
+                    },
+                    {
+                        "Word": "with",
+                        "Offset": 598100000,
+                        "Duration": 1500000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.84159327,
+                "Lexical": "beacon ineffective limits were placed on germany 's military immediately germany began to break terms of the treaty by rearming and after elected hitler who strongly opposed the treaty of versailles re armament increased more rapidly than in nineteen thirty eight germany invaded austria followed by parts of czechoslovakia rather than start another war britain and france adopted a policy of appeasement tolerating germany 's action up to that point in return for assurances that it would not continue germany signed a pact with",
+                "ITN": "beacon ineffective limits were placed on germany 's military immediately germany began to break terms of the treaty by rearming and after elected hitler who strongly opposed the treaty of versailles re armament increased more rapidly than in nineteen thirty eight germany invaded austria followed by parts of czechoslovakia rather than start another war britain and france adopted a policy of appeasement tolerating germany 's action up to that point in return for assurances that it would not continue germany signed a pact with",
+                "MaskedITN": "beacon ineffective limits were placed on germany 's military immediately germany began to break terms of the treaty by rearming and after elected hitler who strongly opposed the treaty of versailles re armament increased more rapidly than in nineteen thirty eight germany invaded austria followed by parts of czechoslovakia rather than start another war britain and france adopted a policy of appeasement tolerating germany 's action up to that point in return for assurances that it would not continue germany signed a pact with",
+                "Display": "beacon ineffective limits were placed on germany 's military immediately germany began to break terms of the treaty by rearming and after elected hitler who strongly opposed the treaty of versailles re armament increased more rapidly than in nineteen thirty eight germany invaded austria followed by parts of czechoslovakia rather than start another war britain and france adopted a policy of appeasement tolerating germany 's action up to that point in return for assurances that it would not continue germany signed a pact with",
+                "Words": [
+                    {
+                        "Word": "beacon",
+                        "Offset": 313800000,
+                        "Duration": 3800000
+                    },
+                    {
+                        "Word": "ineffective",
+                        "Offset": 317700000,
+                        "Duration": 8100000
+                    },
+                    {
+                        "Word": "limits",
+                        "Offset": 326300000,
+                        "Duration": 3700000
+                    },
+                    {
+                        "Word": "were",
+                        "Offset": 330100000,
+                        "Duration": 1500000
+                    },
+                    {
+                        "Word": "placed",
+                        "Offset": 331700000,
+                        "Duration": 3500000
+                    },
+                    {
+                        "Word": "on",
+                        "Offset": 335300000,
+                        "Duration": 1300000
+                    },
+                    {
+                        "Word": "germany",
+                        "Offset": 336700000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "'s",
+                        "Offset": 340400000,
+                        "Duration": 1400000
+                    },
+                    {
+                        "Word": "military",
+                        "Offset": 341900000,
+                        "Duration": 5900000
+                    },
+                    {
+                        "Word": "immediately",
+                        "Offset": 348500000,
+                        "Duration": 6500000
+                    },
+                    {
+                        "Word": "germany",
+                        "Offset": 355100000,
+                        "Duration": 4100000
+                    },
+                    {
+                        "Word": "began",
+                        "Offset": 359300000,
+                        "Duration": 2900000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 362300000,
+                        "Duration": 1300000
+                    },
+                    {
+                        "Word": "break",
+                        "Offset": 363700000,
+                        "Duration": 2500000
+                    },
+                    {
+                        "Word": "terms",
+                        "Offset": 366300000,
+                        "Duration": 3500000
+                    },
+                    {
+                        "Word": "of",
+                        "Offset": 369900000,
+                        "Duration": 900000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 370900000,
+                        "Duration": 1100000
+                    },
+                    {
+                        "Word": "treaty",
+                        "Offset": 372100000,
+                        "Duration": 4300000
+                    },
+                    {
+                        "Word": "by",
+                        "Offset": 376500000,
+                        "Duration": 2100000
+                    },
+                    {
+                        "Word": "rearming",
+                        "Offset": 378700000,
+                        "Duration": 5900000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 384700000,
+                        "Duration": 1900000
+                    },
+                    {
+                        "Word": "after",
+                        "Offset": 386700000,
+                        "Duration": 4900000
+                    },
+                    {
+                        "Word": "elected",
+                        "Offset": 391700000,
+                        "Duration": 4900000
+                    },
+                    {
+                        "Word": "hitler",
+                        "Offset": 396700000,
+                        "Duration": 3900000
+                    },
+                    {
+                        "Word": "who",
+                        "Offset": 400700000,
+                        "Duration": 1500000
+                    },
+                    {
+                        "Word": "strongly",
+                        "Offset": 402300000,
+                        "Duration": 4900000
+                    },
+                    {
+                        "Word": "opposed",
+                        "Offset": 407300000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 411800000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "treaty",
+                        "Offset": 413100000,
+                        "Duration": 3100000
+                    },
+                    {
+                        "Word": "of",
+                        "Offset": 416300000,
+                        "Duration": 1100000
+                    },
+                    {
+                        "Word": "versailles",
+                        "Offset": 417500000,
+                        "Duration": 5700000
+                    },
+                    {
+                        "Word": "re",
+                        "Offset": 423300000,
+                        "Duration": 2500000
+                    },
+                    {
+                        "Word": "armament",
+                        "Offset": 425900000,
+                        "Duration": 4300000
+                    },
+                    {
+                        "Word": "increased",
+                        "Offset": 430300000,
+                        "Duration": 5900000
+                    },
+                    {
+                        "Word": "more",
+                        "Offset": 436300000,
+                        "Duration": 2100000
+                    },
+                    {
+                        "Word": "rapidly",
+                        "Offset": 438500000,
+                        "Duration": 5500000
+                    },
+                    {
+                        "Word": "than",
+                        "Offset": 444700000,
+                        "Duration": 2700000
+                    },
+                    {
+                        "Word": "in",
+                        "Offset": 447500000,
+                        "Duration": 1300000
+                    },
+                    {
+                        "Word": "nineteen",
+                        "Offset": 448900000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "thirty",
+                        "Offset": 453000000,
+                        "Duration": 3500000
+                    },
+                    {
+                        "Word": "eight",
+                        "Offset": 456600000,
+                        "Duration": 2200000
+                    },
+                    {
+                        "Word": "germany",
+                        "Offset": 458900000,
+                        "Duration": 3900000
+                    },
+                    {
+                        "Word": "invaded",
+                        "Offset": 462900000,
+                        "Duration": 4900000
+                    },
+                    {
+                        "Word": "austria",
+                        "Offset": 467900000,
+                        "Duration": 4900000
+                    },
+                    {
+                        "Word": "followed",
+                        "Offset": 472900000,
+                        "Duration": 3500000
+                    },
+                    {
+                        "Word": "by",
+                        "Offset": 476500000,
+                        "Duration": 1700000
+                    },
+                    {
+                        "Word": "parts",
+                        "Offset": 478300000,
+                        "Duration": 3100000
+                    },
+                    {
+                        "Word": "of",
+                        "Offset": 481500000,
+                        "Duration": 1100000
+                    },
+                    {
+                        "Word": "czechoslovakia",
+                        "Offset": 482700000,
+                        "Duration": 9300000
+                    },
+                    {
+                        "Word": "rather",
+                        "Offset": 492700000,
+                        "Duration": 3500000
+                    },
+                    {
+                        "Word": "than",
+                        "Offset": 496300000,
+                        "Duration": 1500000
+                    },
+                    {
+                        "Word": "start",
+                        "Offset": 497900000,
+                        "Duration": 3100000
+                    },
+                    {
+                        "Word": "another",
+                        "Offset": 501100000,
+                        "Duration": 2900000
+                    },
+                    {
+                        "Word": "war",
+                        "Offset": 504100000,
+                        "Duration": 2700000
+                    },
+                    {
+                        "Word": "britain",
+                        "Offset": 506900000,
+                        "Duration": 3300000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 510300000,
+                        "Duration": 1500000
+                    },
+                    {
+                        "Word": "france",
+                        "Offset": 511900000,
+                        "Duration": 3700000
+                    },
+                    {
+                        "Word": "adopted",
+                        "Offset": 515700000,
+                        "Duration": 4700000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 520500000,
+                        "Duration": 900000
+                    },
+                    {
+                        "Word": "policy",
+                        "Offset": 521500000,
+                        "Duration": 4700000
+                    },
+                    {
+                        "Word": "of",
+                        "Offset": 526300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "appeasement",
+                        "Offset": 527600000,
+                        "Duration": 6900000
+                    },
+                    {
+                        "Word": "tolerating",
+                        "Offset": 534600000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "germany",
+                        "Offset": 541500000,
+                        "Duration": 3500000
+                    },
+                    {
+                        "Word": "'s",
+                        "Offset": 545100000,
+                        "Duration": 1000000
+                    },
+                    {
+                        "Word": "action",
+                        "Offset": 546200000,
+                        "Duration": 3800000
+                    },
+                    {
+                        "Word": "up",
+                        "Offset": 550100000,
+                        "Duration": 1900000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 552100000,
+                        "Duration": 1300000
+                    },
+                    {
+                        "Word": "that",
+                        "Offset": 553500000,
+                        "Duration": 1900000
+                    },
+                    {
+                        "Word": "point",
+                        "Offset": 555500000,
+                        "Duration": 3300000
+                    },
+                    {
+                        "Word": "in",
+                        "Offset": 558900000,
+                        "Duration": 1300000
+                    },
+                    {
+                        "Word": "return",
+                        "Offset": 560300000,
+                        "Duration": 4500000
+                    },
+                    {
+                        "Word": "for",
+                        "Offset": 564900000,
+                        "Duration": 1300000
+                    },
+                    {
+                        "Word": "assurances",
+                        "Offset": 566300000,
+                        "Duration": 6200000
+                    },
+                    {
+                        "Word": "that",
+                        "Offset": 572600000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "it",
+                        "Offset": 574300000,
+                        "Duration": 900000
+                    },
+                    {
+                        "Word": "would",
+                        "Offset": 575300000,
+                        "Duration": 1900000
+                    },
+                    {
+                        "Word": "not",
+                        "Offset": 577300000,
+                        "Duration": 1700000
+                    },
+                    {
+                        "Word": "continue",
+                        "Offset": 579100000,
+                        "Duration": 5900000
+                    },
+                    {
+                        "Word": "germany",
+                        "Offset": 585500000,
+                        "Duration": 4300000
+                    },
+                    {
+                        "Word": "signed",
+                        "Offset": 589900000,
+                        "Duration": 3100000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 593100000,
+                        "Duration": 900000
+                    },
+                    {
+                        "Word": "pact",
+                        "Offset": 594100000,
+                        "Duration": 3900000
+                    },
+                    {
+                        "Word": "with",
+                        "Offset": 598100000,
+                        "Duration": 1500000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.8409516,
+                "Lexical": "beacon ineffective limits were placed on germany 's military immediately germany began to break terms of the treaty by rearming and after elected hitler who strongly opposed the treaty of versaille re armament increased more rapidly than in nineteen thirty eight germany invaded austria followed by parts of czechoslovakia rather than start another war britain and france adopted a policy of appeasement tolerating germany 's action up to that point in return for assurances that it would not continue germany signed a pact with",
+                "ITN": "beacon ineffective limits were placed on germany 's military immediately germany began to break terms of the treaty by rearming and after elected hitler who strongly opposed the treaty of versaille re armament increased more rapidly than in nineteen thirty eight germany invaded austria followed by parts of czechoslovakia rather than start another war britain and france adopted a policy of appeasement tolerating germany 's action up to that point in return for assurances that it would not continue germany signed a pact with",
+                "MaskedITN": "beacon ineffective limits were placed on germany 's military immediately germany began to break terms of the treaty by rearming and after elected hitler who strongly opposed the treaty of versaille re armament increased more rapidly than in nineteen thirty eight germany invaded austria followed by parts of czechoslovakia rather than start another war britain and france adopted a policy of appeasement tolerating germany 's action up to that point in return for assurances that it would not continue germany signed a pact with",
+                "Display": "beacon ineffective limits were placed on germany 's military immediately germany began to break terms of the treaty by rearming and after elected hitler who strongly opposed the treaty of versaille re armament increased more rapidly than in nineteen thirty eight germany invaded austria followed by parts of czechoslovakia rather than start another war britain and france adopted a policy of appeasement tolerating germany 's action up to that point in return for assurances that it would not continue germany signed a pact with",
+                "Words": [
+                    {
+                        "Word": "beacon",
+                        "Offset": 313800000,
+                        "Duration": 3800000
+                    },
+                    {
+                        "Word": "ineffective",
+                        "Offset": 317700000,
+                        "Duration": 8100000
+                    },
+                    {
+                        "Word": "limits",
+                        "Offset": 326300000,
+                        "Duration": 3700000
+                    },
+                    {
+                        "Word": "were",
+                        "Offset": 330100000,
+                        "Duration": 1500000
+                    },
+                    {
+                        "Word": "placed",
+                        "Offset": 331700000,
+                        "Duration": 3500000
+                    },
+                    {
+                        "Word": "on",
+                        "Offset": 335300000,
+                        "Duration": 1300000
+                    },
+                    {
+                        "Word": "germany",
+                        "Offset": 336700000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "'s",
+                        "Offset": 340400000,
+                        "Duration": 1400000
+                    },
+                    {
+                        "Word": "military",
+                        "Offset": 341900000,
+                        "Duration": 5900000
+                    },
+                    {
+                        "Word": "immediately",
+                        "Offset": 348500000,
+                        "Duration": 6500000
+                    },
+                    {
+                        "Word": "germany",
+                        "Offset": 355100000,
+                        "Duration": 4100000
+                    },
+                    {
+                        "Word": "began",
+                        "Offset": 359300000,
+                        "Duration": 2900000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 362300000,
+                        "Duration": 1300000
+                    },
+                    {
+                        "Word": "break",
+                        "Offset": 363700000,
+                        "Duration": 2500000
+                    },
+                    {
+                        "Word": "terms",
+                        "Offset": 366300000,
+                        "Duration": 3500000
+                    },
+                    {
+                        "Word": "of",
+                        "Offset": 369900000,
+                        "Duration": 900000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 370900000,
+                        "Duration": 1100000
+                    },
+                    {
+                        "Word": "treaty",
+                        "Offset": 372100000,
+                        "Duration": 4300000
+                    },
+                    {
+                        "Word": "by",
+                        "Offset": 376500000,
+                        "Duration": 2100000
+                    },
+                    {
+                        "Word": "rearming",
+                        "Offset": 378700000,
+                        "Duration": 5900000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 384700000,
+                        "Duration": 1900000
+                    },
+                    {
+                        "Word": "after",
+                        "Offset": 386700000,
+                        "Duration": 4900000
+                    },
+                    {
+                        "Word": "elected",
+                        "Offset": 391700000,
+                        "Duration": 4900000
+                    },
+                    {
+                        "Word": "hitler",
+                        "Offset": 396700000,
+                        "Duration": 3900000
+                    },
+                    {
+                        "Word": "who",
+                        "Offset": 400700000,
+                        "Duration": 1500000
+                    },
+                    {
+                        "Word": "strongly",
+                        "Offset": 402300000,
+                        "Duration": 4900000
+                    },
+                    {
+                        "Word": "opposed",
+                        "Offset": 407300000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 411800000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "treaty",
+                        "Offset": 413100000,
+                        "Duration": 3100000
+                    },
+                    {
+                        "Word": "of",
+                        "Offset": 416300000,
+                        "Duration": 1100000
+                    },
+                    {
+                        "Word": "versaille",
+                        "Offset": 417500000,
+                        "Duration": 5800000
+                    },
+                    {
+                        "Word": "re",
+                        "Offset": 423400000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "armament",
+                        "Offset": 425900000,
+                        "Duration": 4300000
+                    },
+                    {
+                        "Word": "increased",
+                        "Offset": 430300000,
+                        "Duration": 5900000
+                    },
+                    {
+                        "Word": "more",
+                        "Offset": 436300000,
+                        "Duration": 2100000
+                    },
+                    {
+                        "Word": "rapidly",
+                        "Offset": 438500000,
+                        "Duration": 5500000
+                    },
+                    {
+                        "Word": "than",
+                        "Offset": 444700000,
+                        "Duration": 2700000
+                    },
+                    {
+                        "Word": "in",
+                        "Offset": 447500000,
+                        "Duration": 1300000
+                    },
+                    {
+                        "Word": "nineteen",
+                        "Offset": 448900000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "thirty",
+                        "Offset": 453000000,
+                        "Duration": 3500000
+                    },
+                    {
+                        "Word": "eight",
+                        "Offset": 456600000,
+                        "Duration": 2200000
+                    },
+                    {
+                        "Word": "germany",
+                        "Offset": 458900000,
+                        "Duration": 3900000
+                    },
+                    {
+                        "Word": "invaded",
+                        "Offset": 462900000,
+                        "Duration": 4900000
+                    },
+                    {
+                        "Word": "austria",
+                        "Offset": 467900000,
+                        "Duration": 4900000
+                    },
+                    {
+                        "Word": "followed",
+                        "Offset": 472900000,
+                        "Duration": 3500000
+                    },
+                    {
+                        "Word": "by",
+                        "Offset": 476500000,
+                        "Duration": 1700000
+                    },
+                    {
+                        "Word": "parts",
+                        "Offset": 478300000,
+                        "Duration": 3100000
+                    },
+                    {
+                        "Word": "of",
+                        "Offset": 481500000,
+                        "Duration": 1100000
+                    },
+                    {
+                        "Word": "czechoslovakia",
+                        "Offset": 482700000,
+                        "Duration": 9300000
+                    },
+                    {
+                        "Word": "rather",
+                        "Offset": 492700000,
+                        "Duration": 3500000
+                    },
+                    {
+                        "Word": "than",
+                        "Offset": 496300000,
+                        "Duration": 1500000
+                    },
+                    {
+                        "Word": "start",
+                        "Offset": 497900000,
+                        "Duration": 3100000
+                    },
+                    {
+                        "Word": "another",
+                        "Offset": 501100000,
+                        "Duration": 2900000
+                    },
+                    {
+                        "Word": "war",
+                        "Offset": 504100000,
+                        "Duration": 2700000
+                    },
+                    {
+                        "Word": "britain",
+                        "Offset": 506900000,
+                        "Duration": 3300000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 510300000,
+                        "Duration": 1500000
+                    },
+                    {
+                        "Word": "france",
+                        "Offset": 511900000,
+                        "Duration": 3700000
+                    },
+                    {
+                        "Word": "adopted",
+                        "Offset": 515700000,
+                        "Duration": 4700000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 520500000,
+                        "Duration": 900000
+                    },
+                    {
+                        "Word": "policy",
+                        "Offset": 521500000,
+                        "Duration": 4700000
+                    },
+                    {
+                        "Word": "of",
+                        "Offset": 526300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "appeasement",
+                        "Offset": 527600000,
+                        "Duration": 6900000
+                    },
+                    {
+                        "Word": "tolerating",
+                        "Offset": 534600000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "germany",
+                        "Offset": 541500000,
+                        "Duration": 3500000
+                    },
+                    {
+                        "Word": "'s",
+                        "Offset": 545100000,
+                        "Duration": 1000000
+                    },
+                    {
+                        "Word": "action",
+                        "Offset": 546200000,
+                        "Duration": 3800000
+                    },
+                    {
+                        "Word": "up",
+                        "Offset": 550100000,
+                        "Duration": 1900000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 552100000,
+                        "Duration": 1300000
+                    },
+                    {
+                        "Word": "that",
+                        "Offset": 553500000,
+                        "Duration": 1900000
+                    },
+                    {
+                        "Word": "point",
+                        "Offset": 555500000,
+                        "Duration": 3300000
+                    },
+                    {
+                        "Word": "in",
+                        "Offset": 558900000,
+                        "Duration": 1300000
+                    },
+                    {
+                        "Word": "return",
+                        "Offset": 560300000,
+                        "Duration": 4500000
+                    },
+                    {
+                        "Word": "for",
+                        "Offset": 564900000,
+                        "Duration": 1300000
+                    },
+                    {
+                        "Word": "assurances",
+                        "Offset": 566300000,
+                        "Duration": 6200000
+                    },
+                    {
+                        "Word": "that",
+                        "Offset": 572600000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "it",
+                        "Offset": 574300000,
+                        "Duration": 900000
+                    },
+                    {
+                        "Word": "would",
+                        "Offset": 575300000,
+                        "Duration": 1900000
+                    },
+                    {
+                        "Word": "not",
+                        "Offset": 577300000,
+                        "Duration": 1700000
+                    },
+                    {
+                        "Word": "continue",
+                        "Offset": 579100000,
+                        "Duration": 5900000
+                    },
+                    {
+                        "Word": "germany",
+                        "Offset": 585500000,
+                        "Duration": 4300000
+                    },
+                    {
+                        "Word": "signed",
+                        "Offset": 589900000,
+                        "Duration": 3100000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 593100000,
+                        "Duration": 900000
+                    },
+                    {
+                        "Word": "pact",
+                        "Offset": 594100000,
+                        "Duration": 3900000
+                    },
+                    {
+                        "Word": "with",
+                        "Offset": 598100000,
+                        "Duration": 1500000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.827719,
+                "Lexical": "beacon ineffective limits were placed on germany 's military immediately germany began to break terms of the treaty by rearming and after elected hitler who strongly opposed the treaty of versailles rearmament increased more rapidly than in nineteen thirty eight germany invaded austria followed by parts of czechoslovakia rather than start another war britain and france adopted a policy of appeasement tolerating germanys action up to that point in return for assurances that it would not continue germany signed a pact with",
+                "ITN": "beacon ineffective limits were placed on germany 's military immediately germany began to break terms of the treaty by rearming and after elected hitler who strongly opposed the treaty of versailles rearmament increased more rapidly than in nineteen thirty eight germany invaded austria followed by parts of czechoslovakia rather than start another war britain and france adopted a policy of appeasement tolerating germanys action up to that point in return for assurances that it would not continue germany signed a pact with",
+                "MaskedITN": "beacon ineffective limits were placed on germany 's military immediately germany began to break terms of the treaty by rearming and after elected hitler who strongly opposed the treaty of versailles rearmament increased more rapidly than in nineteen thirty eight germany invaded austria followed by parts of czechoslovakia rather than start another war britain and france adopted a policy of appeasement tolerating germanys action up to that point in return for assurances that it would not continue germany signed a pact with",
+                "Display": "beacon ineffective limits were placed on germany 's military immediately germany began to break terms of the treaty by rearming and after elected hitler who strongly opposed the treaty of versailles rearmament increased more rapidly than in nineteen thirty eight germany invaded austria followed by parts of czechoslovakia rather than start another war britain and france adopted a policy of appeasement tolerating germanys action up to that point in return for assurances that it would not continue germany signed a pact with",
+                "Words": [
+                    {
+                        "Word": "beacon",
+                        "Offset": 313800000,
+                        "Duration": 3800000
+                    },
+                    {
+                        "Word": "ineffective",
+                        "Offset": 317700000,
+                        "Duration": 8100000
+                    },
+                    {
+                        "Word": "limits",
+                        "Offset": 326300000,
+                        "Duration": 3700000
+                    },
+                    {
+                        "Word": "were",
+                        "Offset": 330100000,
+                        "Duration": 1500000
+                    },
+                    {
+                        "Word": "placed",
+                        "Offset": 331700000,
+                        "Duration": 3500000
+                    },
+                    {
+                        "Word": "on",
+                        "Offset": 335300000,
+                        "Duration": 1300000
+                    },
+                    {
+                        "Word": "germany",
+                        "Offset": 336700000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "'s",
+                        "Offset": 340400000,
+                        "Duration": 1400000
+                    },
+                    {
+                        "Word": "military",
+                        "Offset": 341900000,
+                        "Duration": 5900000
+                    },
+                    {
+                        "Word": "immediately",
+                        "Offset": 348500000,
+                        "Duration": 6500000
+                    },
+                    {
+                        "Word": "germany",
+                        "Offset": 355100000,
+                        "Duration": 4100000
+                    },
+                    {
+                        "Word": "began",
+                        "Offset": 359300000,
+                        "Duration": 2900000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 362300000,
+                        "Duration": 1300000
+                    },
+                    {
+                        "Word": "break",
+                        "Offset": 363700000,
+                        "Duration": 2500000
+                    },
+                    {
+                        "Word": "terms",
+                        "Offset": 366300000,
+                        "Duration": 3500000
+                    },
+                    {
+                        "Word": "of",
+                        "Offset": 369900000,
+                        "Duration": 900000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 370900000,
+                        "Duration": 1100000
+                    },
+                    {
+                        "Word": "treaty",
+                        "Offset": 372100000,
+                        "Duration": 4300000
+                    },
+                    {
+                        "Word": "by",
+                        "Offset": 376500000,
+                        "Duration": 2100000
+                    },
+                    {
+                        "Word": "rearming",
+                        "Offset": 378700000,
+                        "Duration": 5900000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 384700000,
+                        "Duration": 1900000
+                    },
+                    {
+                        "Word": "after",
+                        "Offset": 386700000,
+                        "Duration": 4900000
+                    },
+                    {
+                        "Word": "elected",
+                        "Offset": 391700000,
+                        "Duration": 4900000
+                    },
+                    {
+                        "Word": "hitler",
+                        "Offset": 396700000,
+                        "Duration": 3900000
+                    },
+                    {
+                        "Word": "who",
+                        "Offset": 400700000,
+                        "Duration": 1500000
+                    },
+                    {
+                        "Word": "strongly",
+                        "Offset": 402300000,
+                        "Duration": 4900000
+                    },
+                    {
+                        "Word": "opposed",
+                        "Offset": 407300000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 411800000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "treaty",
+                        "Offset": 413100000,
+                        "Duration": 3100000
+                    },
+                    {
+                        "Word": "of",
+                        "Offset": 416300000,
+                        "Duration": 1100000
+                    },
+                    {
+                        "Word": "versailles",
+                        "Offset": 417500000,
+                        "Duration": 5700000
+                    },
+                    {
+                        "Word": "rearmament",
+                        "Offset": 423300000,
+                        "Duration": 6900000
+                    },
+                    {
+                        "Word": "increased",
+                        "Offset": 430300000,
+                        "Duration": 5900000
+                    },
+                    {
+                        "Word": "more",
+                        "Offset": 436300000,
+                        "Duration": 2100000
+                    },
+                    {
+                        "Word": "rapidly",
+                        "Offset": 438500000,
+                        "Duration": 5500000
+                    },
+                    {
+                        "Word": "than",
+                        "Offset": 444700000,
+                        "Duration": 2700000
+                    },
+                    {
+                        "Word": "in",
+                        "Offset": 447500000,
+                        "Duration": 1300000
+                    },
+                    {
+                        "Word": "nineteen",
+                        "Offset": 448900000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "thirty",
+                        "Offset": 453000000,
+                        "Duration": 3500000
+                    },
+                    {
+                        "Word": "eight",
+                        "Offset": 456600000,
+                        "Duration": 2200000
+                    },
+                    {
+                        "Word": "germany",
+                        "Offset": 458900000,
+                        "Duration": 3900000
+                    },
+                    {
+                        "Word": "invaded",
+                        "Offset": 462900000,
+                        "Duration": 4900000
+                    },
+                    {
+                        "Word": "austria",
+                        "Offset": 467900000,
+                        "Duration": 4900000
+                    },
+                    {
+                        "Word": "followed",
+                        "Offset": 472900000,
+                        "Duration": 3500000
+                    },
+                    {
+                        "Word": "by",
+                        "Offset": 476500000,
+                        "Duration": 1700000
+                    },
+                    {
+                        "Word": "parts",
+                        "Offset": 478300000,
+                        "Duration": 3100000
+                    },
+                    {
+                        "Word": "of",
+                        "Offset": 481500000,
+                        "Duration": 1100000
+                    },
+                    {
+                        "Word": "czechoslovakia",
+                        "Offset": 482700000,
+                        "Duration": 9300000
+                    },
+                    {
+                        "Word": "rather",
+                        "Offset": 492700000,
+                        "Duration": 3500000
+                    },
+                    {
+                        "Word": "than",
+                        "Offset": 496300000,
+                        "Duration": 1500000
+                    },
+                    {
+                        "Word": "start",
+                        "Offset": 497900000,
+                        "Duration": 3100000
+                    },
+                    {
+                        "Word": "another",
+                        "Offset": 501100000,
+                        "Duration": 2900000
+                    },
+                    {
+                        "Word": "war",
+                        "Offset": 504100000,
+                        "Duration": 2700000
+                    },
+                    {
+                        "Word": "britain",
+                        "Offset": 506900000,
+                        "Duration": 3300000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 510300000,
+                        "Duration": 1500000
+                    },
+                    {
+                        "Word": "france",
+                        "Offset": 511900000,
+                        "Duration": 3700000
+                    },
+                    {
+                        "Word": "adopted",
+                        "Offset": 515700000,
+                        "Duration": 4700000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 520500000,
+                        "Duration": 900000
+                    },
+                    {
+                        "Word": "policy",
+                        "Offset": 521500000,
+                        "Duration": 4700000
+                    },
+                    {
+                        "Word": "of",
+                        "Offset": 526300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "appeasement",
+                        "Offset": 527600000,
+                        "Duration": 6900000
+                    },
+                    {
+                        "Word": "tolerating",
+                        "Offset": 534600000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "germanys",
+                        "Offset": 541500000,
+                        "Duration": 4500000
+                    },
+                    {
+                        "Word": "action",
+                        "Offset": 546100000,
+                        "Duration": 3900000
+                    },
+                    {
+                        "Word": "up",
+                        "Offset": 550100000,
+                        "Duration": 1900000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 552100000,
+                        "Duration": 1300000
+                    },
+                    {
+                        "Word": "that",
+                        "Offset": 553500000,
+                        "Duration": 1900000
+                    },
+                    {
+                        "Word": "point",
+                        "Offset": 555500000,
+                        "Duration": 3300000
+                    },
+                    {
+                        "Word": "in",
+                        "Offset": 558900000,
+                        "Duration": 1300000
+                    },
+                    {
+                        "Word": "return",
+                        "Offset": 560300000,
+                        "Duration": 4500000
+                    },
+                    {
+                        "Word": "for",
+                        "Offset": 564900000,
+                        "Duration": 1300000
+                    },
+                    {
+                        "Word": "assurances",
+                        "Offset": 566300000,
+                        "Duration": 6200000
+                    },
+                    {
+                        "Word": "that",
+                        "Offset": 572600000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "it",
+                        "Offset": 574300000,
+                        "Duration": 900000
+                    },
+                    {
+                        "Word": "would",
+                        "Offset": 575300000,
+                        "Duration": 1900000
+                    },
+                    {
+                        "Word": "not",
+                        "Offset": 577300000,
+                        "Duration": 1700000
+                    },
+                    {
+                        "Word": "continue",
+                        "Offset": 579100000,
+                        "Duration": 5900000
+                    },
+                    {
+                        "Word": "germany",
+                        "Offset": 585500000,
+                        "Duration": 4300000
+                    },
+                    {
+                        "Word": "signed",
+                        "Offset": 589900000,
+                        "Duration": 3100000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 593100000,
+                        "Duration": 900000
+                    },
+                    {
+                        "Word": "pact",
+                        "Offset": 594100000,
+                        "Duration": 3900000
+                    },
+                    {
+                        "Word": "with",
+                        "Offset": 598100000,
+                        "Duration": 1500000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.8388672,
+                "Lexical": "beacon ineffective limits were placed on germany 's military immediately germany began to break terms of the treaty by rearming and after elected hitler who strongly opposed the treaty of versailles re armament increased more rapidly than in nineteen thirty eight germany invaded austria followed by parts of czechoslovakia rather than start another war britain and france adopted a policy of appeasement tolerating germanys action up to that point in return for assurances that it would not continue germany signed a pact with",
+                "ITN": "beacon ineffective limits were placed on germany 's military immediately germany began to break terms of the treaty by rearming and after elected hitler who strongly opposed the treaty of versailles re armament increased more rapidly than in nineteen thirty eight germany invaded austria followed by parts of czechoslovakia rather than start another war britain and france adopted a policy of appeasement tolerating germanys action up to that point in return for assurances that it would not continue germany signed a pact with",
+                "MaskedITN": "beacon ineffective limits were placed on germany 's military immediately germany began to break terms of the treaty by rearming and after elected hitler who strongly opposed the treaty of versailles re armament increased more rapidly than in nineteen thirty eight germany invaded austria followed by parts of czechoslovakia rather than start another war britain and france adopted a policy of appeasement tolerating germanys action up to that point in return for assurances that it would not continue germany signed a pact with",
+                "Display": "beacon ineffective limits were placed on germany 's military immediately germany began to break terms of the treaty by rearming and after elected hitler who strongly opposed the treaty of versailles re armament increased more rapidly than in nineteen thirty eight germany invaded austria followed by parts of czechoslovakia rather than start another war britain and france adopted a policy of appeasement tolerating germanys action up to that point in return for assurances that it would not continue germany signed a pact with",
+                "Words": [
+                    {
+                        "Word": "beacon",
+                        "Offset": 313800000,
+                        "Duration": 3800000
+                    },
+                    {
+                        "Word": "ineffective",
+                        "Offset": 317700000,
+                        "Duration": 8100000
+                    },
+                    {
+                        "Word": "limits",
+                        "Offset": 326300000,
+                        "Duration": 3700000
+                    },
+                    {
+                        "Word": "were",
+                        "Offset": 330100000,
+                        "Duration": 1500000
+                    },
+                    {
+                        "Word": "placed",
+                        "Offset": 331700000,
+                        "Duration": 3500000
+                    },
+                    {
+                        "Word": "on",
+                        "Offset": 335300000,
+                        "Duration": 1300000
+                    },
+                    {
+                        "Word": "germany",
+                        "Offset": 336700000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "'s",
+                        "Offset": 340400000,
+                        "Duration": 1400000
+                    },
+                    {
+                        "Word": "military",
+                        "Offset": 341900000,
+                        "Duration": 5900000
+                    },
+                    {
+                        "Word": "immediately",
+                        "Offset": 348500000,
+                        "Duration": 6500000
+                    },
+                    {
+                        "Word": "germany",
+                        "Offset": 355100000,
+                        "Duration": 4100000
+                    },
+                    {
+                        "Word": "began",
+                        "Offset": 359300000,
+                        "Duration": 2900000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 362300000,
+                        "Duration": 1300000
+                    },
+                    {
+                        "Word": "break",
+                        "Offset": 363700000,
+                        "Duration": 2500000
+                    },
+                    {
+                        "Word": "terms",
+                        "Offset": 366300000,
+                        "Duration": 3500000
+                    },
+                    {
+                        "Word": "of",
+                        "Offset": 369900000,
+                        "Duration": 900000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 370900000,
+                        "Duration": 1100000
+                    },
+                    {
+                        "Word": "treaty",
+                        "Offset": 372100000,
+                        "Duration": 4300000
+                    },
+                    {
+                        "Word": "by",
+                        "Offset": 376500000,
+                        "Duration": 2100000
+                    },
+                    {
+                        "Word": "rearming",
+                        "Offset": 378700000,
+                        "Duration": 5900000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 384700000,
+                        "Duration": 1900000
+                    },
+                    {
+                        "Word": "after",
+                        "Offset": 386700000,
+                        "Duration": 4900000
+                    },
+                    {
+                        "Word": "elected",
+                        "Offset": 391700000,
+                        "Duration": 4900000
+                    },
+                    {
+                        "Word": "hitler",
+                        "Offset": 396700000,
+                        "Duration": 3900000
+                    },
+                    {
+                        "Word": "who",
+                        "Offset": 400700000,
+                        "Duration": 1500000
+                    },
+                    {
+                        "Word": "strongly",
+                        "Offset": 402300000,
+                        "Duration": 4900000
+                    },
+                    {
+                        "Word": "opposed",
+                        "Offset": 407300000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 411800000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "treaty",
+                        "Offset": 413100000,
+                        "Duration": 3100000
+                    },
+                    {
+                        "Word": "of",
+                        "Offset": 416300000,
+                        "Duration": 1100000
+                    },
+                    {
+                        "Word": "versailles",
+                        "Offset": 417500000,
+                        "Duration": 5700000
+                    },
+                    {
+                        "Word": "re",
+                        "Offset": 423300000,
+                        "Duration": 2500000
+                    },
+                    {
+                        "Word": "armament",
+                        "Offset": 425900000,
+                        "Duration": 4300000
+                    },
+                    {
+                        "Word": "increased",
+                        "Offset": 430300000,
+                        "Duration": 5900000
+                    },
+                    {
+                        "Word": "more",
+                        "Offset": 436300000,
+                        "Duration": 2100000
+                    },
+                    {
+                        "Word": "rapidly",
+                        "Offset": 438500000,
+                        "Duration": 5500000
+                    },
+                    {
+                        "Word": "than",
+                        "Offset": 444700000,
+                        "Duration": 2700000
+                    },
+                    {
+                        "Word": "in",
+                        "Offset": 447500000,
+                        "Duration": 1300000
+                    },
+                    {
+                        "Word": "nineteen",
+                        "Offset": 448900000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "thirty",
+                        "Offset": 453000000,
+                        "Duration": 3500000
+                    },
+                    {
+                        "Word": "eight",
+                        "Offset": 456600000,
+                        "Duration": 2200000
+                    },
+                    {
+                        "Word": "germany",
+                        "Offset": 458900000,
+                        "Duration": 3900000
+                    },
+                    {
+                        "Word": "invaded",
+                        "Offset": 462900000,
+                        "Duration": 4900000
+                    },
+                    {
+                        "Word": "austria",
+                        "Offset": 467900000,
+                        "Duration": 4900000
+                    },
+                    {
+                        "Word": "followed",
+                        "Offset": 472900000,
+                        "Duration": 3500000
+                    },
+                    {
+                        "Word": "by",
+                        "Offset": 476500000,
+                        "Duration": 1700000
+                    },
+                    {
+                        "Word": "parts",
+                        "Offset": 478300000,
+                        "Duration": 3100000
+                    },
+                    {
+                        "Word": "of",
+                        "Offset": 481500000,
+                        "Duration": 1100000
+                    },
+                    {
+                        "Word": "czechoslovakia",
+                        "Offset": 482700000,
+                        "Duration": 9300000
+                    },
+                    {
+                        "Word": "rather",
+                        "Offset": 492700000,
+                        "Duration": 3500000
+                    },
+                    {
+                        "Word": "than",
+                        "Offset": 496300000,
+                        "Duration": 1500000
+                    },
+                    {
+                        "Word": "start",
+                        "Offset": 497900000,
+                        "Duration": 3100000
+                    },
+                    {
+                        "Word": "another",
+                        "Offset": 501100000,
+                        "Duration": 2900000
+                    },
+                    {
+                        "Word": "war",
+                        "Offset": 504100000,
+                        "Duration": 2700000
+                    },
+                    {
+                        "Word": "britain",
+                        "Offset": 506900000,
+                        "Duration": 3300000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 510300000,
+                        "Duration": 1500000
+                    },
+                    {
+                        "Word": "france",
+                        "Offset": 511900000,
+                        "Duration": 3700000
+                    },
+                    {
+                        "Word": "adopted",
+                        "Offset": 515700000,
+                        "Duration": 4700000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 520500000,
+                        "Duration": 900000
+                    },
+                    {
+                        "Word": "policy",
+                        "Offset": 521500000,
+                        "Duration": 4700000
+                    },
+                    {
+                        "Word": "of",
+                        "Offset": 526300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "appeasement",
+                        "Offset": 527600000,
+                        "Duration": 6900000
+                    },
+                    {
+                        "Word": "tolerating",
+                        "Offset": 534600000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "germanys",
+                        "Offset": 541500000,
+                        "Duration": 4500000
+                    },
+                    {
+                        "Word": "action",
+                        "Offset": 546100000,
+                        "Duration": 3900000
+                    },
+                    {
+                        "Word": "up",
+                        "Offset": 550100000,
+                        "Duration": 1900000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 552100000,
+                        "Duration": 1300000
+                    },
+                    {
+                        "Word": "that",
+                        "Offset": 553500000,
+                        "Duration": 1900000
+                    },
+                    {
+                        "Word": "point",
+                        "Offset": 555500000,
+                        "Duration": 3300000
+                    },
+                    {
+                        "Word": "in",
+                        "Offset": 558900000,
+                        "Duration": 1300000
+                    },
+                    {
+                        "Word": "return",
+                        "Offset": 560300000,
+                        "Duration": 4500000
+                    },
+                    {
+                        "Word": "for",
+                        "Offset": 564900000,
+                        "Duration": 1300000
+                    },
+                    {
+                        "Word": "assurances",
+                        "Offset": 566300000,
+                        "Duration": 6200000
+                    },
+                    {
+                        "Word": "that",
+                        "Offset": 572600000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "it",
+                        "Offset": 574300000,
+                        "Duration": 900000
+                    },
+                    {
+                        "Word": "would",
+                        "Offset": 575300000,
+                        "Duration": 1900000
+                    },
+                    {
+                        "Word": "not",
+                        "Offset": 577300000,
+                        "Duration": 1700000
+                    },
+                    {
+                        "Word": "continue",
+                        "Offset": 579100000,
+                        "Duration": 5900000
+                    },
+                    {
+                        "Word": "germany",
+                        "Offset": 585500000,
+                        "Duration": 4300000
+                    },
+                    {
+                        "Word": "signed",
+                        "Offset": 589900000,
+                        "Duration": 3100000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 593100000,
+                        "Duration": 900000
+                    },
+                    {
+                        "Word": "pact",
+                        "Offset": 594100000,
+                        "Duration": 3900000
+                    },
+                    {
+                        "Word": "with",
+                        "Offset": 598100000,
+                        "Duration": 1500000
+                    }
+                ]
+            }
+        ]
+    }
+]

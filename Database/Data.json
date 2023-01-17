@@ -1,0 +1,58 @@
+{
+    "sku": {
+        "name": "Standard_LRS",
+        "tier": "Standard"
+    },
+    "kind": "StorageV2",
+    "id": "/subscriptions/d0b44810-9711-4ae0-a242-4fde7b4c2f69/resourceGroups/cloud-shell-storage-westeurope/providers/Microsoft.Storage/storageAccounts/csb1003000099fafe89",
+    "name": "csb1003000099fafe89",
+    "type": "Microsoft.Storage/storageAccounts",
+    "location": "westeurope",
+    "tags": {
+        "ms-resource-usage": "azure-cloud-shell"
+    },
+    "properties": {
+        "keyCreationTime": {
+            "key1": "2022-12-28T17:41:16.3634992Z",
+            "key2": "2022-12-28T17:41:16.3634992Z"
+        },
+        "privateEndpointConnections": [],
+        "minimumTlsVersion": "TLS1_2",
+        "allowBlobPublicAccess": false,
+        "networkAcls": {
+            "bypass": "AzureServices",
+            "virtualNetworkRules": [],
+            "ipRules": [],
+            "defaultAction": "Allow"
+        },
+        "supportsHttpsTrafficOnly": true,
+        "encryption": {
+            "services": {
+                "file": {
+                    "keyType": "Account",
+                    "enabled": true,
+                    "lastEnabledTime": "2022-12-28T17:41:17.5197071Z"
+                },
+                "blob": {
+                    "keyType": "Account",
+                    "enabled": true,
+                    "lastEnabledTime": "2022-12-28T17:41:17.5197071Z"
+                }
+            },
+            "keySource": "Microsoft.Storage"
+        },
+        "accessTier": "Hot",
+        "provisioningState": "Succeeded",
+        "creationTime": "2022-12-28T17:41:16.2072228Z",
+        "primaryEndpoints": {
+            "dfs": "https://csb1003000099fafe89.dfs.core.windows.net/",
+            "web": "https://csb1003000099fafe89.z6.web.core.windows.net/",
+            "blob": "https://csb1003000099fafe89.blob.core.windows.net/",
+            "queue": "https://csb1003000099fafe89.queue.core.windows.net/",
+            "table": "https://csb1003000099fafe89.table.core.windows.net/",
+            "file": "https://csb1003000099fafe89.file.core.windows.net/"
+        },
+        "primaryLocation": "westeurope",
+        "statusOfPrimary": "available"
+    }
+}
